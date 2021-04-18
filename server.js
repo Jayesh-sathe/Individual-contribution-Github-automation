@@ -31,8 +31,8 @@ app.use(cors());
 //require("./app/routes/authenticate.routes")(app);
 
 // Create a new login
-const clientID = "78636703058b6ed19ace";
-const clientSecret = "d4b92bd5305182c0339ab4ba35ceaa6bfd087ed5";
+const clientID = "xxxxxxxxx";
+const clientSecret = "xxxxxxxxxxxxxxxxxxx";
 var access_token = "";
 app.get("/", (req, res) => {
   res.redirect(
