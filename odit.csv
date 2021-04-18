@@ -1,0 +1,67 @@
+Repository Name,Total Closed Issues,Issue Number,Issue Title,Issue Status,Assignees,Labels,Issue Created At,Issue Closed At,Closed By
+[],[],[],[],[],[],[],[],[],[]
+ChicoState/ODIT,0,58,Username and Email HAVE to be changed in order to update profile.,Done,VioletInferno,27-04-2020 22:28,28-04-2020 22:28,VioletInferno,None
+ChicoState/ODIT,0,56,"If a user tries to edit their username to an existing username in our db, an error is thrown and the application crashes.",Done,VioletInferno,26-04-2020 20:08,27-04-2020 13:38,VioletInferno,Something isn't working
+ChicoState/ODIT,0,49,'Clear' button on search pages doesn't work.,Done,lcnorine,20-04-2020 21:43,21-04-2020 17:38,VioletInferno,Something isn't working
+ChicoState/ODIT,0,46,"Exception is being thrown on ""ViewIssues"" page when searching by keyword.",Done,VioletInferno,15-04-2020 14:08,18-04-2020 15:05,lcnorine,None
+ChicoState/ODIT,0,44,As a user who likes being able to look at my current and past issues I would like a place to look at them all,Done,Asterisk007,13-04-2020 13:25,26-04-2020 16:19,Asterisk007,New feature or request
+ChicoState/ODIT,0,43,"As a new user, I would like to see the password requirements on the sign up page.",Done,Asterisk007,13-04-2020 13:24,26-04-2020 16:11,CodeMastr3,Very Easy (under 2 hours)
+ChicoState/ODIT,0,42,"As a user, I want to be able to edit my request.",Done,"Asterisk007,VioletInferno",12-04-2020 13:36,28-04-2020 22:28,VioletInferno,Easy (2-3 hours)
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",Done,VioletInferno,12-04-2020 11:19,28-04-2020 22:28,VioletInferno,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,40,"As a technician, I want to be able to view each specific request that is assigned to me.",Done,lcnorine,12-04-2020 11:11,19-04-2020 22:00,VioletInferno,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,28,"As a nontech person, I would like a picture/diagram to guide me through the submit process, including what to submit and how",Done,Asterisk007,09-03-2020 13:19,06-04-2020 12:29,Asterisk007,New feature or request
+ChicoState/ODIT,0,26,Bug was introduced in previous commit. Issues are not properly being saved into the database.,Done,"VioletInferno,lcnorine",09-03-2020 11:00,09-03-2020 12:14,lcnorine,None
+ChicoState/ODIT,0,24,"As a mobile user, I want the website to fit nicely on my small screen.",Done,Asterisk007,08-03-2020 17:56,06-04-2020 12:29,Asterisk007,Very Easy (under 2 hours)
+ChicoState/ODIT,0,23,"As a visitor to the website, I want to see pretty, enticing, visuals on the main page.",Done,Asterisk007,08-03-2020 17:54,19-03-2020 19:50,Asterisk007,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,22,"As an immensely cool individual, I wish to use darkmode when I visit this website.",Done,Asterisk007,08-03-2020 17:39,19-03-2020 19:51,Asterisk007,Very Easy (under 2 hours)
+ChicoState/ODIT,0,18,"As a user who needs a technician to fix something in person, I want to find a technician in my local area.",Done,VioletInferno,05-03-2020 09:59,27-04-2020 12:21,lcnorine,Average Difficulty (7-10 hours)
+ChicoState/ODIT,0,17,"As a technician, I want to view service requests.",Done,VioletInferno,04-03-2020 13:46,04-03-2020 13:50,lcnorine,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,16,"As a user, I want to submit a service request.",Done,VioletInferno,04-03-2020 13:44,04-03-2020 13:50,lcnorine,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,15,"As a potential user, I want to see what ODIT does.",Done,Asterisk007,04-03-2020 13:43,04-03-2020 13:50,lcnorine,Easy (2-3 hours)
+ChicoState/ODIT,0,14,Repeat code in views.py,Done,lcnorine,04-03-2020 13:32,08-03-2020 23:11,lcnorine,Very Easy (under 2 hours)
+ChicoState/ODIT,0,13,nav.html is unused,Done,lcnorine,04-03-2020 13:08,08-03-2020 23:11,lcnorine,Very Easy (under 2 hours)
+ChicoState/ODIT,0,8,"As an ODIT technician, I want to sign in to my account when I visit the website.",Done,"CodeMastr3,VioletInferno,lcnorine",18-02-2020 18:05,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,7,"As a technician, I want to accept service requests.",Done,lcnorine,18-02-2020 18:02,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,6,"As a user, I want to rate the quality of service for my last ODIT technician.",Done,"Asterisk007,lcnorine",18-02-2020 17:58,28-04-2020 00:45,VioletInferno,New feature or request
+ChicoState/ODIT,0,3,"As a registered ODIT technician, I want to be able to change/edit my area of expertise.",Done,lcnorine,18-02-2020 17:53,21-04-2020 17:38,VioletInferno,New feature or request
+ChicoState/ODIT,0,2,"As a technician, I want to search for requests in the area of my specific experience.",Done,lcnorine,18-02-2020 17:52,23-03-2020 10:34,lcnorine,New feature or request
+ChicoState/ODIT,0,1,"As someone with IT skills, I want to sign up as an ODIT technician.",Done,"VioletInferno,lcnorine",18-02-2020 17:49,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,2,"As a technician, I want to search for requests in the area of my specific experience.",To Do,lcnorine,18-02-2020 17:52,None,None,New feature or request
+ChicoState/ODIT,0,1,"As someone with IT skills, I want to sign up as an ODIT technician.",To Do,"VioletInferno,lcnorine",18-02-2020 17:49,None,None,New feature or request
+ChicoState/ODIT,0,8,"As an ODIT technician, I want to sign in to my account when I visit the website.",To Do,"CodeMastr3,VioletInferno,lcnorine",18-02-2020 18:05,None,None,New feature or request
+ChicoState/ODIT,0,23,"As a visitor to the website, I want to see pretty, enticing, visuals on the main page.",To Do,Asterisk007,08-03-2020 17:54,None,None,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,2,"As a technician, I want to search for requests in the area of my specific experience.",To Do,lcnorine,18-02-2020 17:52,None,None,New feature or request
+ChicoState/ODIT,0,22,"As an immensely cool individual, I wish to use darkmode when I visit this website.",To Do,Asterisk007,08-03-2020 17:39,None,None,Very Easy (under 2 hours)
+ChicoState/ODIT,0,3,"As a registered ODIT technician, I want to be able to change/edit my area of expertise.",To Do,lcnorine,18-02-2020 17:53,None,None,New feature or request
+ChicoState/ODIT,0,38,"As a technician, I want to get notifications about new requests by email.",To Do,"CodeMastr3,lcnorine",06-04-2020 13:33,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,37,"As a technician, I want to get notifications about new requests instantly via text message.",To Do,None,06-04-2020 13:30,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,3,"As a registered ODIT technician, I want to be able to change/edit my area of expertise.",To Do,lcnorine,18-02-2020 17:53,None,None,New feature or request
+ChicoState/ODIT,0,18,"As a user who needs a technician to fix something in person, I want to find a technician in my local area.",To Do,VioletInferno,05-03-2020 09:59,None,None,Average Difficulty (7-10 hours)
+ChicoState/ODIT,0,40,"As a technician, I want to be able to view each specific request that is assigned to me.",To Do,lcnorine,12-04-2020 11:11,None,None,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",To Do,VioletInferno,12-04-2020 11:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,24,"As a mobile user, I want the website to fit nicely on my small screen.",In Progress,Asterisk007,08-03-2020 17:56,None,None,Very Easy (under 2 hours)
+ChicoState/ODIT,0,8,"As an ODIT technician, I want to sign in to my account when I visit the website.",In Progress,"CodeMastr3,VioletInferno,lcnorine",18-02-2020 18:05,None,None,New feature or request
+ChicoState/ODIT,0,1,"As someone with IT skills, I want to sign up as an ODIT technician.",In Progress,"VioletInferno,lcnorine",18-02-2020 17:49,None,None,New feature or request
+ChicoState/ODIT,0,28,"As a nontech person, I would like a picture/diagram to guide me through the submit process, including what to submit and how",In Progress,Asterisk007,09-03-2020 13:19,None,None,New feature or request
+ChicoState/ODIT,0,24,"As a mobile user, I want the website to fit nicely on my small screen.",To Do,Asterisk007,08-03-2020 17:56,None,None,Very Easy (under 2 hours)
+ChicoState/ODIT,0,7,"As a technician, I want to accept service requests.",To Do,lcnorine,18-02-2020 18:02,None,None,New feature or request
+ChicoState/ODIT,0,28,"As a nontech person, I would like a picture/diagram to guide me through the submit process, including what to submit and how",To Do,Asterisk007,09-03-2020 13:19,None,None,New feature or request
+ChicoState/ODIT,0,54,"As a user, I want the website to work reliably.",To Do,"CodeMastr3,VioletInferno,lcnorine",26-04-2020 16:32,None,None,Moderately Difficult (13-17 hours)
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",In Progress,VioletInferno,12-04-2020 11:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,53,"As a technician, I want to rate the users I've worked with.",To Do,"Asterisk007,lcnorine",26-04-2020 16:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,6,"As a user, I want to rate the quality of service for my last ODIT technician.",To Do,"Asterisk007,lcnorine",18-02-2020 17:58,None,None,New feature or request
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",To Do,VioletInferno,12-04-2020 11:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,43,"As a new user, I would like to see the password requirements on the sign up page.",In Progress,Asterisk007,13-04-2020 13:24,None,None,Very Easy (under 2 hours)
+ChicoState/ODIT,0,45,As a user my preferred method of sign in is through google and would like to sign in with that,In Progress,CodeMastr3,13-04-2020 17:06,None,None,New feature or request
+ChicoState/ODIT,0,40,"As a technician, I want to be able to view each specific request that is assigned to me.",In Progress,lcnorine,12-04-2020 11:11,None,None,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,44,As a user who likes being able to look at my current and past issues I would like a place to look at them all,In Progress,Asterisk007,13-04-2020 13:25,None,None,New feature or request
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",In Progress,VioletInferno,12-04-2020 11:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,18,"As a user who needs a technician to fix something in person, I want to find a technician in my local area.",In Progress,VioletInferno,05-03-2020 09:59,None,None,Average Difficulty (7-10 hours)
+ChicoState/ODIT,0,45,As a user my preferred method of sign in is through google and would like to sign in with that,To Do,CodeMastr3,13-04-2020 17:06,None,None,New feature or request
+ChicoState/ODIT,0,44,As a user who likes being able to look at my current and past issues I would like a place to look at them all,To Do,Asterisk007,13-04-2020 13:25,None,None,New feature or request
+ChicoState/ODIT,0,43,"As a new user, I would like to see the password requirements on the sign up page.",To Do,Asterisk007,13-04-2020 13:24,None,None,Very Easy (under 2 hours)
+ChicoState/ODIT,0,42,"As a user, I want to be able to edit my request.",To Do,"Asterisk007,VioletInferno",12-04-2020 13:36,None,None,Easy (2-3 hours)
+ChicoState/ODIT,0,54,"As a user, I want the website to work reliably.",In Progress,"CodeMastr3,VioletInferno,lcnorine",26-04-2020 16:32,None,None,Moderately Difficult (13-17 hours)
+ChicoState/ODIT,0,54,"As a user, I want the website to work reliably.",In Progress,"CodeMastr3,VioletInferno,lcnorine",26-04-2020 16:32,None,None,Moderately Difficult (13-17 hours)
+ChicoState/ODIT,0,53,"As a technician, I want to rate the users I've worked with.",To Do,"Asterisk007,lcnorine",26-04-2020 16:19,None,None,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,53,"As a technician, I want to rate the users I've worked with.",In Progress,"Asterisk007,lcnorine",26-04-2020 16:19,None,None,Easier than Average (5-7 hours)

@@ -1,0 +1,36 @@
+<!-- views/success.ejs -->
+<!doctype html>
+<html>
+  <head>
+    <title>Github OAuth</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"> <!-- load bulma css -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- load fontawesome -->
+      <style>
+          body        { padding-top:70px; }
+      </style>
+      <script>
+         function downloadCSV(data) {
+//console.log("BLOD PRE => " , data);
+
+
+  
+  const blob = new Blob([data], {type: 'text/csv'});
+  const url = window.URL.createObjectURL(blob);
+
+  const c = document.createElement('a');
+  c.setAttribute('hidden', '');
+  c.setAttribute('href', url);
+  c.setAttribute('download', 'download.csv');
+  document.body.appendChild(c);
+  c.click();
+  document.body.removeChild(c);
+
+}
+
+
+      </script>
+  </head>
+  <body>
+   <button onclick="downloadCSV('<%=data%>')">DOwnload</button>
+  </body>
+</html>

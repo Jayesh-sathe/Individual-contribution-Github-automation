@@ -1,0 +1,888 @@
+Repository Name,Total Closed Issues,Issue Number,Issue Title,Issue Status,Assignees,Labels,Issue Created At,Issue Closed At,Closed By
+[],[],[],[],[],[],[],[],[],[]
+ChicoState/BlxMusicMaker,0,44,implement unit testing,Done,None,02-12-2020 12:08,17-12-2020 21:04,blexc,None
+ChicoState/BlxMusicMaker,0,43,"As a user, I would like the wave buttons to have pictures of the waves instead of the names.",Done,KyleRhoads45,01-12-2020 13:31,08-12-2020 12:35,KyleRhoads45,Easy
+ChicoState/BlxMusicMaker,0,42,"on loadup, the no wave buttons 'appear' to be selected/highlighted",Done,None,30-11-2020 14:51,08-12-2020 12:35,KyleRhoads45,None
+ChicoState/BlxMusicMaker,0,41,arp continues to play sounds when holding notes then deactivating arp.,Done,None,30-11-2020 13:27,30-11-2020 14:48,blexc,None
+ChicoState/BlxMusicMaker,0,40,Opening a second version of the plugin on FL studio causes the first one to be overridden.,Done,None,23-11-2020 15:46,01-12-2020 14:17,blexc,None
+ChicoState/BlxMusicMaker,0,38,"Can't move sustain slider when you bring sustain to 1, close the VST, reopen it, and try to move the slider.",Done,KyleRhoads45,15-11-2020 22:23,17-11-2020 21:39,KyleRhoads45,None
+ChicoState/BlxMusicMaker,0,37,Popping and cracking noises on FL studio when an note is pressed.,Done,blexc,15-11-2020 22:18,23-11-2020 15:42,blexc,None
+ChicoState/BlxMusicMaker,0,36,Tremolo at full depth is wayyy to loud.,Done,blexc,15-11-2020 22:17,23-11-2020 15:42,blexc,None
+ChicoState/BlxMusicMaker,0,35,"As a user, I would like a low-pass and high-pass filter built-in.",Done,None,03-11-2020 10:47,23-11-2020 15:45,blexc,Easy
+ChicoState/BlxMusicMaker,0,34,"If the sample rate in a DAW isn't 48000 (our VST's default), the notes will sound off-key.",Done,None,31-10-2020 15:38,31-10-2020 15:50,blexc,None
+ChicoState/BlxMusicMaker,0,32,Some notes don't register when hitting long notes quickly and repeatedly,Done,None,26-10-2020 14:34,11-11-2020 20:17,blexc,None
+ChicoState/BlxMusicMaker,0,31,"As a user, I would like the effects components laid out.",Done,KyleRhoads45,26-10-2020 12:20,31-10-2020 13:13,KyleRhoads45,Medium
+ChicoState/BlxMusicMaker,0,30,"As a chiptune person, I would like my instruments to be bit-crushed to 8 bits, which will produce a more authentic NES sound.",Done,blexc,25-10-2020 18:23,31-10-2020 15:50,blexc,Medium
+ChicoState/BlxMusicMaker,0,29,"As a user, I would like to have a layout with all the buttons and everything laid out.",Done,KyleRhoads45,19-10-2020 12:41,26-10-2020 12:21,KyleRhoads45,Medium
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",Done,blexc,19-10-2020 12:25,23-11-2020 15:42,blexc,Hard
+ChicoState/BlxMusicMaker,0,27,"As a user, I would like to have the option to have my notes slide up/down in pitch in varying speeds-- in key steps.",Done,blexc,16-10-2020 12:32,15-11-2020 14:33,blexc,Medium
+ChicoState/BlxMusicMaker,0,26,"As a user, I would like to be able to have instruments with tremolo/vibrato with varying speed and depth.",Done,None,16-10-2020 12:32,15-11-2020 19:35,blexc,Medium
+ChicoState/BlxMusicMaker,0,25,"As a chiptune person, I would like to recognize these instruments as authentic 8-bit sounds similar to the NES/ Famicom.",Done,None,16-10-2020 12:29,15-11-2020 22:25,blexc,None
+ChicoState/BlxMusicMaker,0,24,"As a chiptune person, I would like to have a Pulse wave instead of a Square, and be able to adjust the Duty of it.",Done,blexc,16-10-2020 12:26,21-10-2020 12:52,blexc,Medium
+ChicoState/BlxMusicMaker,0,23,"As an experienced music person, I would like to have lots of effects I can apply to my instrument, so that I can create the sounds I have in my head.",Done,None,16-10-2020 12:24,15-11-2020 22:25,blexc,None
+ChicoState/BlxMusicMaker,0,22,"As a user, I would like to be able to save my Instruments in a way the DAW can understand.",Done,blexc,05-10-2020 11:59,15-11-2020 22:26,blexc,Medium
+ChicoState/BlxMusicMaker,0,21,"As a user, I want to have the plugin to be styled cool.",Done,KyleRhoads45,23-09-2020 12:36,26-10-2020 12:21,KyleRhoads45,Medium
+ChicoState/BlxMusicMaker,0,20,"As a user, I would like simple easily managed arpegiators.",Done,None,21-09-2020 13:55,15-11-2020 22:26,blexc,None
+ChicoState/BlxMusicMaker,0,19,"As a user, I would like to be able to start and stop my song/pattern.",Done,None,18-09-2020 17:39,15-11-2020 22:25,blexc,Easy
+ChicoState/BlxMusicMaker,0,18,"As a user, I would like there to be keyboard shortcuts to quickly save, export, or place patterns.",Done,None,18-09-2020 17:38,15-11-2020 22:26,blexc,Easy
+ChicoState/BlxMusicMaker,0,17,"As a music noob, I would like to be able to make melodies and chords despite my lack of musical knowledge.",Done,None,18-09-2020 17:38,15-11-2020 22:25,blexc,None
+ChicoState/BlxMusicMaker,0,16,"As a user, I would like to be able to hold notes on my keyboard to make the duration of the sound longer.",Done,None,18-09-2020 17:38,16-10-2020 12:14,blexc,Easy
+ChicoState/BlxMusicMaker,0,15,"As a user, I would like to be able to save and load my instrument configurations.",Done,KyleRhoads45,18-09-2020 17:38,17-11-2020 21:39,KyleRhoads45,Medium
+ChicoState/BlxMusicMaker,0,14,"As a user, I would like to be able to arpeggiate my chords, and be able to modify its speed.",Done,"blexc,KyleRhoads45,jjohhns7",18-09-2020 17:38,24-11-2020 12:09,blexc,Hard
+ChicoState/BlxMusicMaker,0,13,"As a user, I want to hear a sine wave.",Done,jjohhns7,18-09-2020 17:38,06-10-2020 12:43,blexc,Easy
+ChicoState/BlxMusicMaker,0,12,"As a user, I want to be able to play different notes using my computer keyboard, so that I can create melodies.",Done,None,18-09-2020 17:38,06-10-2020 12:43,blexc,Medium
+ChicoState/BlxMusicMaker,0,11,"As a user, I would like to be able to save and load my songs, so that I can come back to them later.",Done,None,18-09-2020 17:38,15-11-2020 22:26,blexc,Hard
+ChicoState/BlxMusicMaker,0,10,"As a user, I would like to be able to record what I'm playing, and save the result as a "".wav"", so that I can combine it with my other recordings.",Done,None,18-09-2020 17:38,15-11-2020 22:25,blexc,Hard
+ChicoState/BlxMusicMaker,0,9,"As a game developer, I want to be able to create songs quickly, so that I have enough time to complete a game jam.",Done,None,18-09-2020 17:38,15-11-2020 22:25,blexc,None
+ChicoState/BlxMusicMaker,0,8,"As a user, I would like to have 5 different kinds of waves/ sounds to choose from (sine, triangle, square, noise, and saw)",Done,"KyleRhoads45,jjohhns7",18-09-2020 17:38,16-10-2020 12:52,KyleRhoads45,Medium
+ChicoState/BlxMusicMaker,0,7,"As a user, I would like to change the way the waves sounds by manipulating the envelope (ADSR, Attack Decay Sustain Release), so I can create unique sounds.",Done,"blexc,KyleRhoads45",18-09-2020 17:38,14-10-2020 15:00,blexc,Medium
+ChicoState/BlxMusicMaker,0,6,"As a user, I would like to have a separate Instrument Window connecting to the main DAW.",Done,blexc,18-09-2020 17:38,15-11-2020 22:26,blexc,Hard
+ChicoState/BlxMusicMaker,0,5,"As a user, I would like to be able to open this plugin in a DAW, so that I can use it with my other musical projects.",Done,blexc,18-09-2020 17:38,16-10-2020 18:48,blexc,Easy
+ChicoState/BlxMusicMaker,0,4,"As a user, I would like a simple looking interface, so I don't become easily overwhelmed by all the controls.",Done,None,18-09-2020 17:38,15-11-2020 22:25,blexc,None
+ChicoState/BlxMusicMaker,0,3,"As a user, I would like to have to option to hear a metronome, so that I can record in the time of my other recordings.",Done,None,18-09-2020 17:38,15-11-2020 22:25,blexc,Medium
+ChicoState/BlxMusicMaker,0,2,"As a user, I would like to change the pan, and volume of the instrument.",Done,"KyleRhoads45,jjohhns7",18-09-2020 17:38,23-11-2020 15:45,blexc,Easy
+ChicoState/BlxMusicMaker,0,1,"As a user, I would like to be able to use my midi keyboard to play notes.",Done,blexc,18-09-2020 17:36,06-10-2020 12:43,blexc,Medium
+ChicoState/BlxMusicMaker,0,13,"As a user, I want to hear a sine wave.",In progress,jjohhns7,Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,1,"As a user, I would like to be able to use my midi keyboard to play notes.",In progress,blexc,Medium,18-09-2020 17:36,None,None
+ChicoState/BlxMusicMaker,0,21,"As a user, I want to have the plugin to be styled cool.",In progress,KyleRhoads45,Medium,23-09-2020 12:36,None,None
+ChicoState/BlxMusicMaker,0,21,"As a user, I want to have the plugin to be styled cool.",To do,KyleRhoads45,Medium,23-09-2020 12:36,None,None
+ChicoState/BlxMusicMaker,0,12,"As a user, I want to be able to play different notes using my computer keyboard, so that I can create melodies.",To do,None,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,13,"As a user, I want to hear a sine wave.",To do,jjohhns7,Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,1,"As a user, I would like to be able to use my midi keyboard to play notes.",To do,blexc,Medium,18-09-2020 17:36,None,None
+ChicoState/BlxMusicMaker,0,14,"As a user, I would like to be able to arpeggiate my chords, and be able to modify its speed.",In progress,"blexc,KyleRhoads45,jjohhns7",Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,13,"As a user, I want to hear a sine wave.",In progress,jjohhns7,Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,1,"As a user, I would like to be able to use my midi keyboard to play notes.",In progress,blexc,Medium,18-09-2020 17:36,None,None
+ChicoState/BlxMusicMaker,0,21,"As a user, I want to have the plugin to be styled cool.",In progress,KyleRhoads45,Medium,23-09-2020 12:36,None,None
+ChicoState/BlxMusicMaker,0,21,"As a user, I want to have the plugin to be styled cool.",To do,KyleRhoads45,Medium,23-09-2020 12:36,None,None
+ChicoState/BlxMusicMaker,0,12,"As a user, I want to be able to play different notes using my computer keyboard, so that I can create melodies.",To do,None,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,13,"As a user, I want to hear a sine wave.",To do,jjohhns7,Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,1,"As a user, I would like to be able to use my midi keyboard to play notes.",To do,blexc,Medium,18-09-2020 17:36,None,None
+ChicoState/BlxMusicMaker,0,14,"As a user, I would like to be able to arpeggiate my chords, and be able to modify its speed.",In progress,"blexc,KyleRhoads45,jjohhns7",Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,29,"As a user, I would like to have a layout with all the buttons and everything laid out.",In progress,KyleRhoads45,Medium,19-10-2020 12:41,None,toferwon
+ChicoState/BlxMusicMaker,0,15,"As a user, I would like to be able to save and load my instrument configurations.",To do,KyleRhoads45,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",In progress,blexc,Hard,19-10-2020 12:25,None,None
+ChicoState/BlxMusicMaker,0,24,"As a chiptune person, I would like to have a Pulse wave instead of a Square, and be able to adjust the Duty of it.",In progress,blexc,Medium,16-10-2020 12:26,None,None
+ChicoState/BlxMusicMaker,0,14,"As a user, I would like to be able to arpeggiate my chords, and be able to modify its speed.",In progress,"blexc,KyleRhoads45,jjohhns7",Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,15,"As a user, I would like to be able to save and load my instrument configurations.",In progress,KyleRhoads45,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,5,"As a user, I would like to be able to open this plugin in a DAW, so that I can use it with my other musical projects.",In progress,blexc,Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,22,"As a user, I would like to be able to save my Instruments in a way the DAW can understand.",To do,blexc,Medium,05-10-2020 11:59,None,None
+ChicoState/BlxMusicMaker,0,15,"As a user, I would like to be able to save and load my instrument configurations.",To do,KyleRhoads45,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,14,"As a user, I would like to be able to arpeggiate my chords, and be able to modify its speed.",To do,"blexc,KyleRhoads45,jjohhns7",Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,6,"As a user, I would like to have a separate Instrument Window connecting to the main DAW.",To do,blexc,Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,8,"As a user, I would like to have 5 different kinds of waves/ sounds to choose from (sine, triangle, square, noise, and saw)",In progress,"KyleRhoads45,jjohhns7",Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,7,"As a user, I would like to change the way the waves sounds by manipulating the envelope (ADSR, Attack Decay Sustain Release), so I can create unique sounds.",In progress,"blexc,KyleRhoads45",Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,12,"As a user, I want to be able to play different notes using my computer keyboard, so that I can create melodies.",In progress,None,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,22,"As a user, I would like to be able to save my Instruments in a way the DAW can understand.",To do,blexc,Medium,05-10-2020 11:59,None,None
+ChicoState/BlxMusicMaker,0,6,"As a user, I would like to have a separate Instrument Window connecting to the main DAW.",To do,blexc,Hard,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,8,"As a user, I would like to have 5 different kinds of waves/ sounds to choose from (sine, triangle, square, noise, and saw)",To do,"KyleRhoads45,jjohhns7",Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,7,"As a user, I would like to change the way the waves sounds by manipulating the envelope (ADSR, Attack Decay Sustain Release), so I can create unique sounds.",To do,"blexc,KyleRhoads45",Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,39,"As a user, I would like 'internal' built-in presets.",To do,KyleRhoads45,Medium,18-11-2020 12:47,None,None
+ChicoState/BlxMusicMaker,0,43,"As a user, I would like the wave buttons to have pictures of the waves instead of the names.",In progress,KyleRhoads45,Easy,01-12-2020 13:31,None,None
+ChicoState/BlxMusicMaker,0,35,"As a user, I would like a low-pass and high-pass filter built-in.",To do,None,Easy,03-11-2020 10:47,None,None
+ChicoState/BlxMusicMaker,0,2,"As a user, I would like to change the pan, and volume of the instrument.",In progress,"KyleRhoads45,jjohhns7",Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,39,"As a user, I would like 'internal' built-in presets.",In progress,KyleRhoads45,Medium,18-11-2020 12:47,None,None
+ChicoState/BlxMusicMaker,0,39,"As a user, I would like 'internal' built-in presets.",To do,KyleRhoads45,Medium,18-11-2020 12:47,None,None
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",In progress,blexc,Hard,19-10-2020 12:25,None,None
+ChicoState/BlxMusicMaker,0,35,"As a user, I would like a low-pass and high-pass filter built-in.",To do,None,Easy,03-11-2020 10:47,None,None
+ChicoState/BlxMusicMaker,0,33,"As a non-Windows user, I would like this VST to be cross platform.",To do,None,Medium,30-10-2020 21:20,None,None
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",To do,blexc,Hard,19-10-2020 12:25,None,None
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",In progress,blexc,Hard,19-10-2020 12:25,None,None
+ChicoState/BlxMusicMaker,0,33,"As a non-Windows user, I would like this VST to be cross platform.",In progress,None,Medium,30-10-2020 21:20,None,None
+ChicoState/BlxMusicMaker,0,35,"As a user, I would like a low-pass and high-pass filter built-in.",In progress,None,Easy,03-11-2020 10:47,None,None
+ChicoState/BlxMusicMaker,0,27,"As a user, I would like to have the option to have my notes slide up/down in pitch in varying speeds-- in key steps.",In progress,blexc,Medium,16-10-2020 12:32,None,None
+ChicoState/BlxMusicMaker,0,2,"As a user, I would like to change the pan, and volume of the instrument.",In progress,"KyleRhoads45,jjohhns7",Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,15,"As a user, I would like to be able to save and load my instrument configurations.",In progress,KyleRhoads45,Medium,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,27,"As a user, I would like to have the option to have my notes slide up/down in pitch in varying speeds-- in key steps.",To do,blexc,Medium,16-10-2020 12:32,None,None
+ChicoState/BlxMusicMaker,0,2,"As a user, I would like to change the pan, and volume of the instrument.",To do,"KyleRhoads45,jjohhns7",Easy,18-09-2020 17:38,None,None
+ChicoState/BlxMusicMaker,0,31,"As a user, I would like the effects components laid out.",In progress,KyleRhoads45,Medium,26-10-2020 12:20,None,None
+ChicoState/BlxMusicMaker,0,30,"As a chiptune person, I would like my instruments to be bit-crushed to 8 bits, which will produce a more authentic NES sound.",In progress,blexc,Medium,25-10-2020 18:23,None,None
+ChicoState/BlxMusicMaker,0,28,"As a user, I would like noise to have different sounds depending on the note I play.",To do,blexc,Hard,19-10-2020 12:25,None,None
+ChicoState/Booked,0,1,As a group leader of a class project I want to be able to remind my group members in as little time as possible,In progress,toferwon,None,23-09-2020 12:24,None,None
+ChicoState/Booked,0,2,As a student I want to become more motivated and excited to participate in group projects so I can enjoy the process instead of dreading it.,To do,toferwon,None,23-09-2020 12:25,None,None
+ChicoState/Booked,0,1,As a group leader of a class project I want to be able to remind my group members in as little time as possible,To do,toferwon,None,23-09-2020 12:24,None,None
+
+ChicoState/GroceryPals,0,6,customer creates a list is able to retrieve the list for future use.,In progress,None,None,08-11-2020 17:15,None,None
+ChicoState/GroceryPals,0,6,customer creates a list is able to retrieve the list for future use.,To do,None,None,08-11-2020 17:15,None,None
+ChicoState/GroceryPals,0,5,A Chico state student is looking for the best deal on beer.,In progress,None,None,08-11-2020 16:11,None,None
+ChicoState/GroceryPals,0,1,"A family is looking for soda for a birthday party, and wants to check and see if the store has the soda in stock.",To do,None,None,28-09-2020 15:10,None,None
+ChicoState/GroceryPals,0,1,"A family is looking for soda for a birthday party, and wants to check and see if the store has the soda in stock.",In progress,None,None,28-09-2020 15:10,None,None
+ChicoState/GroceryPals,0,3,A shopper wants to create a list of items they need from the grocery store,In progress,mnguyen1996,None,05-10-2020 15:06,None,None
+ChicoState/GroceryPals,0,4,A students wants to see the closest stores from their location,In progress,Mscheer75,None,05-10-2020 15:06,None,None
+ChicoState/GroceryPals,0,4,A students wants to see the closest stores from their location,To do,Mscheer75,None,05-10-2020 15:06,None,None
+ChicoState/GroceryPals,0,3,A shopper wants to create a list of items they need from the grocery store,To do,mnguyen1996,None,05-10-2020 15:06,None,None
+ChicoState/GroceryPals,0,1,"A family is looking for soda for a birthday party, and wants to check and see if the store has the soda in stock.",To do,None,None,28-09-2020 15:10,None,None
+ChicoState/Gruvest,0,32,Pitcher Advice,Done,blueweaver,None,05-11-2020 14:47,07-12-2020 14:06,blueweaver
+ChicoState/Gruvest,0,31,Subscriptions,Done,"blueweaver,jhowell1",None,05-11-2020 14:42,11-12-2020 13:38,blueweaver
+ChicoState/Gruvest,0,28,Subscription Button,Done,blueweaver,None,20-10-2020 21:03,07-12-2020 14:05,blueweaver
+ChicoState/Gruvest,0,27,Create Login and Registration Pages,Done,blueweaver,None,20-10-2020 21:01,02-11-2020 12:04,blueweaver
+ChicoState/Gruvest,0,20,Funds view/Subscription display,Done,blueweaver,None,13-10-2020 10:15,07-12-2020 14:05,blueweaver
+ChicoState/Gruvest,0,19,Pitches Detail View,Done,jhowell1,None,13-10-2020 10:04,14-10-2020 12:18,jhowell1
+ChicoState/Gruvest,0,15,UI Design,Done,"blueweaver,0hana,jhowell1",None,05-10-2020 14:57,17-10-2020 22:37,blueweaver
+ChicoState/Gruvest,0,14,Pitches Page,Done,"blueweaver,jhowell1",None,05-10-2020 14:52,12-10-2020 15:28,jhowell1
+ChicoState/Gruvest,0,5,user page,Done,0hana,None,20-09-2020 20:09,11-12-2020 13:38,blueweaver
+ChicoState/Gruvest,0,4,Add comment system,Done,"blueweaver,jhowell1",None,20-09-2020 20:09,05-10-2020 12:13,jhowell1
+ChicoState/Gruvest,0,3,Add an upvote and downvote system,Done,"blueweaver,jhowell1",None,20-09-2020 20:05,05-10-2020 12:10,jhowell1
+ChicoState/Gruvest,0,1,Discussion with other users ,Done,blueweaver,None,20-09-2020 19:59,30-09-2020 12:46,blueweaver
+ChicoState/Gruvest,0,3,Add an upvote and downvote system,To do,"blueweaver,jhowell1",None,20-09-2020 20:05,None,None
+ChicoState/Gruvest,0,3,Add an upvote and downvote system,In progress,"blueweaver,jhowell1",None,20-09-2020 20:05,None,None
+ChicoState/Gruvest,0,1,Discussion with other users ,To do,blueweaver,None,20-09-2020 19:59,None,None
+ChicoState/Gruvest,0,4,Add comment system,To do,"blueweaver,jhowell1",None,20-09-2020 20:09,None,None
+ChicoState/Gruvest,0,3,Add an upvote and downvote system,To do,"blueweaver,jhowell1",None,20-09-2020 20:05,None,None
+ChicoState/HappyHouseplants,0,149,Profile page: Create buttons to change name and profile,In Progress: Technical,maklh899,None,08-12-2020 00:32,None,None
+ChicoState/HappyHouseplants,0,148,make the login and reg screens beautiful,In Progress: Technical,Neodusk,None,07-12-2020 21:58,None,None
+ChicoState/HappyHouseplants,0,47,Hook tips into database and retrieve tips randomly per day,In progress: User Stories,Cessna210,None,05-10-2020 15:30,None,None
+ChicoState/HappyHouseplants,0,145,"As a plant owner as well as a pet owner, I would like to know which plants are potentially dangerous or poisonous to have around my pets (2)",In progress: User Stories,iramosromero,None,07-12-2020 15:35,None,None
+ChicoState/HappyHouseplants,0,144,"As a user, I would like to take multiple pictures of the same plant and easily access those photos in one place so I can see the growing progress of the plant.",In progress: User Stories,Cessna210,None,07-12-2020 15:34,None,None
+ChicoState/HappyHouseplants,0,143,make notes on the calendar appear in order,To do: Technical,None,None,07-12-2020 15:31,None,None
+ChicoState/HappyHouseplants,0,142,Expand Search Bar and Card Items of Search screen,In Progress: Technical,myothra7777,Lowest Difficulty,07-12-2020 15:28,None,None
+ChicoState/HappyHouseplants,0,8,scrape the internet for tips on plant owning,In Progress: Technical,"Cessna210,iramosromero",None,21-09-2020 16:04,None,None
+ChicoState/LifesLibrary,0,11,"As a user, I would appreciate a theme that helps me keep my focus on the app.",Done,None,None,05-10-2020 12:30,07-11-2020 11:02,myothra7777
+ChicoState/LifesLibrary,0,8,"As a user in a hurry, I want an app that immediately loads a useful Gallery view of my Collection, so I can see what I have at a glance.",Done,None,None,28-09-2020 12:53,07-11-2020 11:03,None
+ChicoState/LifesLibrary,0,1,"""As someone with a highly technical job, most of my 'spare' reading time is devoted to learning new work-related skills. I need a better way to keep track of the books that interest me, so I can quickly and easily access the list the rare times I'm free to enjoy a good book.""",Done,briswells,None,20-09-2020 15:25,07-10-2020 18:49,None
+ChicoState/HappyHouseplants,0,11,Initialize npm (setup package.json),To do,Neodusk,Lowest Difficulty,23-09-2020 11:49,None,None
+ChicoState/HappyHouseplants,0,9,Create a calendar,To do,"myothra7777,maklh899",None,21-09-2020 16:10,None,None
+ChicoState/HappyHouseplants,0,8,scrape the internet for tips on plant owning,To do,"Cessna210,iramosromero",None,21-09-2020 16:04,None,None
+ChicoState/HappyHouseplants,0,7,setup docker container for MongoDB,To do,Neodusk,Lowest Difficulty,21-09-2020 16:02,None,None
+ChicoState/HappyHouseplants,0,6,setup MongoDB collection schemas,To do,Neodusk,Lowest Difficulty,21-09-2020 16:02,None,None
+ChicoState/HappyHouseplants,0,5,Create profile plant and landing page,To do,"Cessna210,maklh899",None,21-09-2020 15:59,None,None
+ChicoState/HappyHouseplants,0,4,"As a plant grower, I would like to have a calendar to keep track of when I plant seeds so I know when they will reach maturity and how I should take care of them at different stages of their life",To do,Neodusk,None,19-09-2020 11:07,None,None
+ChicoState/HappyHouseplants,0,3,"As a user, I would like all of my data to persist across my devices - database",To do,"myothra7777,Neodusk,Cessna210",None,19-09-2020 11:06,None,None
+ChicoState/HappyHouseplants,0,2,"As a beginner to plant owning, I would like to receive tips in order to avoid common mistakes.",To do,"Cessna210,iramosromero",Lowest Difficulty,19-09-2020 11:06,None,None
+ChicoState/HappyHouseplants,0,1,"As an app user, I would like to have an intuitive UI experience",To do,"maklh899,iramosromero",None,19-09-2020 11:06,None,None
+ChicoState/MoneyPool,0,23,"As a general user, I want to see the pricing of a certain suggestion. [1]",Done,kcrisci94,None,30-11-2020 18:32,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,22,"As a general user, I want a way to see the realtime estimation of my personal cost of a trip before and after I join a trip [2]",Done,"ChaseMay,kcrisci94",None,16-11-2020 12:45,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,21,"As a general user, I want a way to invite specific people on a trip and hide the trip from others who were not invited [2].",Done,kcrisci94,None,04-11-2020 09:01,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,20,"As a general user, I would like to be able to access a specific trip to be able to see the detailed elements of the trip. [1]",Done,jacobGildea33,None,12-10-2020 13:27,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,19,"As a user, I want to be able to navigate among different trips and view profiles. [1]",Done,ChaseMay,None,05-10-2020 12:23,04-11-2020 09:16,kcrisci94
+ChicoState/MoneyPool,0,18,As a user I want to be able to create a detailed trip proposal to start planning my trip. [1],Done,"kcrisci94,jacobGildea33",None,05-10-2020 12:22,05-10-2020 13:57,jacobGildea33
+ChicoState/MoneyPool,0,17,"As a user, I would like to register an account with MoneyPool. [1]",Done,kcrisci94,None,28-09-2020 12:33,05-10-2020 13:57,jacobGildea33
+ChicoState/MoneyPool,0,16,"As a user, I would like to sign in and register my own account. [1]",Done,kcrisci94,None,28-09-2020 12:31,05-10-2020 13:57,jacobGildea33
+ChicoState/MoneyPool,0,15,As a user I would like to be able to make a profile to classify myself within this program.,Done,None,None,21-09-2020 12:50,04-11-2020 09:18,kcrisci94
+ChicoState/MoneyPool,0,14,"As a customer, I want a way to see trips that have been suggested by other people [2].",Done,None,None,21-09-2020 12:44,04-11-2020 09:19,kcrisci94
+ChicoState/MoneyPool,0,13,"As a general user, I want a way to find friends on the app in order to invite them to a trip. I also want to save these friends as contacts [2]",Done,kcrisci94,None,21-09-2020 12:24,04-11-2020 09:16,kcrisci94
+ChicoState/MoneyPool,0,11,"As a general user, I want a way to see upcoming public events posted by other people [2].",Done,"kcrisci94,jacobGildea33",None,21-09-2020 12:23,04-11-2020 09:16,kcrisci94
+ChicoState/MoneyPool,0,10,"As a general user, I want a way to see upcoming events that I’ve decided to participate in, in order to keep track of them. [1]",Done,kcrisci94,None,21-09-2020 12:23,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,9,"As a general user, I want a way to see who else is going on this trip. [1]",Done,kcrisci94,None,21-09-2020 12:23,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,6,"As a customer, I want a way to suggest things that might be needed or useful on the trip (so others may choose to bring them). [2]",Done,"ChaseMay,kcrisci94",None,21-09-2020 12:23,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,4,"As a general user, I want a way to vote on certain amenities, such as hotels to stay at, etc. [3]",Done,ChaseMay,None,21-09-2020 12:22,04-11-2020 09:16,kcrisci94
+ChicoState/MoneyPool,0,3,"As a general user, I want a way to categorize the sections of our trip such as food, hotels, travel in order to accurately plan the trip [2]",Done,jacobGildea33,None,21-09-2020 12:22,04-12-2020 16:54,ChaseMay
+ChicoState/MoneyPool,0,5,"As the proposer of a trip, I want a way to divy up who is bringing what for the trip, and add/remove items from this list. [3]",To do,None,None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,2,As a customer I would like to be able to add a new sections or amenities to the trip or event so I can expand the trip as needed [2],To do,None,None,21-09-2020 12:22,None,None
+ChicoState/MoneyPool,0,10,"As a general user, I want a way to see upcoming events that I’ve decided to participate in, in order to keep track of them. [1]",To do,kcrisci94,None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,9,"As a general user, I want a way to see who else is going on this trip. [1]",To do,kcrisci94,None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,11,"As a general user, I want a way to see upcoming public events posted by other people [2].",In progress,"kcrisci94,jacobGildea33",None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,13,"As a general user, I want a way to find friends on the app in order to invite them to a trip. I also want to save these friends as contacts [2]",In progress,kcrisci94,None,21-09-2020 12:24,None,None
+ChicoState/MoneyPool,0,6,"As a customer, I want a way to suggest things that might be needed or useful on the trip (so others may choose to bring them). [2]",In progress,"ChaseMay,kcrisci94",None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,6,"As a customer, I want a way to suggest things that might be needed or useful on the trip (so others may choose to bring them). [2]",To do,"ChaseMay,kcrisci94",None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,19,"As a user, I want to be able to navigate among different trips and view profiles. [1]",In progress,ChaseMay,None,05-10-2020 12:23,None,None
+ChicoState/MoneyPool,0,11,"As a general user, I want a way to see upcoming public events posted by other people [2].",To do,"kcrisci94,jacobGildea33",None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,15,As a user I would like to be able to make a profile to classify myself within this program.,To do,None,None,21-09-2020 12:50,None,None
+ChicoState/MoneyPool,0,11,"As a general user, I want a way to see upcoming public events posted by other people [2].",In progress,"kcrisci94,jacobGildea33",None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,17,"As a user, I would like to register an account with MoneyPool. [1]",In progress,kcrisci94,None,28-09-2020 12:33,None,None
+ChicoState/MoneyPool,0,16,"As a user, I would like to sign in and register my own account. [1]",In progress,kcrisci94,None,28-09-2020 12:31,None,None
+ChicoState/MoneyPool,0,15,As a user I would like to be able to make a profile to classify myself within this program.,To do,None,None,21-09-2020 12:50,None,None
+ChicoState/MoneyPool,0,14,"As a customer, I want a way to see trips that have been suggested by other people [2].",To do,None,None,21-09-2020 12:44,None,None
+ChicoState/MoneyPool,0,14,"As a customer, I want a way to see trips that have been suggested by other people [2].",To do,None,None,21-09-2020 12:44,None,None
+ChicoState/MoneyPool,0,13,"As a general user, I want a way to find friends on the app in order to invite them to a trip. I also want to save these friends as contacts [2]",To do,kcrisci94,None,21-09-2020 12:24,None,None
+ChicoState/MoneyPool,0,12,"As a general user, I want a way to communicate with others who are going on this trip. [4]",To do,None,None,21-09-2020 12:23,None,None
+ChicoState/MoneyPool,0,11,"As a general user, I want a way to see upcoming public events posted by other people [2].",To do,"kcrisci94,jacobGildea33",None,21-09-2020 12:23,None,None
+ChicoState/PedalMaps,0,29,"As a rider, I would like to be able to see where I've gone on my ride",Done,JohnAnthony98,None,05-11-2020 15:08,07-12-2020 12:00,JohnAnthony98
+ChicoState/PedalMaps,0,17,"As a user, when I end a ride I want to save that trail information.",Done,cbfiggins,None,08-10-2020 15:04,15-11-2020 14:50,cbfiggins
+ChicoState/PedalMaps,0,15,"As a biker, I would like to be able to see my location on a map",Done,Vulfenstein,None,07-10-2020 19:40,17-10-2020 20:46,Vulfenstein
+ChicoState/PedalMaps,0,13,"As a rider, I want to be able to track the time of my bike ride.",Done,Vulfenstein,None,05-10-2020 18:56,05-10-2020 18:58,cbfiggins
+ChicoState/PedalMaps,0,12,"As a rider, I want to be able to pause and resume my trail tracking in the middle of my ride",Done,cbfiggins,None,05-10-2020 12:32,25-10-2020 12:00,cbfiggins
+ChicoState/PedalMaps,0,11,"As a biker, I would like to be able to see my location on a map",Done,None,None,05-10-2020 11:49,07-10-2020 19:40,Vulfenstein
+ChicoState/PedalMaps,0,8,As a user I would like to have multiple pages on my app,Done,"Vulfenstein,cbfiggins",None,17-09-2020 16:44,05-10-2020 11:28,cbfiggins
+ChicoState/PedalMaps,0,3,"As a rider, I want to be able to know if the trail is for mountain bikes or road bikes.",Done,cbfiggins,None,17-09-2020 16:21,05-11-2020 15:09,cbfiggins
+ChicoState/PedalMaps,0,2,"As an avid biker, I want to be able to see trails near me",Done,Vulfenstein,None,17-09-2020 16:21,07-12-2020 12:00,JohnAnthony98
+ChicoState/PedalMaps,0,1,"As a bike rider, I want to be able to track the mileage of my bike ride.",Done,JohnAnthony98,None,17-09-2020 16:18,05-11-2020 15:09,JohnAnthony98
+ChicoState/PedalMaps,0,2,"As an avid biker, I want to be able to see trails near me",To do,Vulfenstein,None,17-09-2020 16:21,None,None
+ChicoState/PedalMaps,0,19,As a rider I would like to be able to track total distance traveled on bike,To do,None,None,08-10-2020 15:09,None,None
+ChicoState/PedalMaps,0,19,As a rider I would like to be able to track total distance traveled on bike,To do,None,None,08-10-2020 15:09,None,None
+ChicoState/PedalMaps,0,1,"As a bike rider, I want to be able to track the mileage of my bike ride.",In progress,JohnAnthony98,None,17-09-2020 16:18,None,None
+ChicoState/PedalMaps,0,17,"As a user, when I end a ride I want to save that trail information.",In progress,cbfiggins,None,08-10-2020 15:04,None,None
+ChicoState/PedalMaps,0,15,"As a biker, I would like to be able to see my location on a map",In progress,Vulfenstein,None,07-10-2020 19:40,None,None
+ChicoState/PedalMaps,0,15,"As a biker, I would like to be able to see my location on a map",To do,Vulfenstein,None,07-10-2020 19:40,None,None
+ChicoState/PedalMaps,0,13,"As a rider, I want to be able to track the time of my bike ride.",To do,Vulfenstein,None,05-10-2020 18:56,None,None
+ChicoState/PedalMaps,0,12,"As a rider, I want to be able to pause and resume my trail tracking in the middle of my ride",In progress,cbfiggins,None,05-10-2020 12:32,None,None
+ChicoState/PedalMaps,0,12,"As a rider, I want to be able to pause and resume my trail tracking in the middle of my ride",To do,cbfiggins,None,05-10-2020 12:32,None,None
+ChicoState/PedalMaps,0,8,As a user I would like to have multiple pages on my app,In progress,"Vulfenstein,cbfiggins",None,17-09-2020 16:44,None,None
+ChicoState/PedalMaps,0,8,As a user I would like to have multiple pages on my app,To do,"Vulfenstein,cbfiggins",None,17-09-2020 16:44,None,None
+ChicoState/PedalMaps,0,1,"As a bike rider, I want to be able to track the mileage of my bike ride.",To do,JohnAnthony98,None,17-09-2020 16:18,None,None
+ChicoState/Playbuddy,0,86,"User Story: As a user, I want to be able to suspend my listing temporarily in case I've found a group",Done,None,None,10-12-2020 12:44,10-12-2020 12:45,RetroJect
+ChicoState/Playbuddy,0,80,clean up frontend,Done,mansidogra1,None,02-12-2020 15:28,09-12-2020 12:02,RetroJect
+ChicoState/Playbuddy,0,78,Backend: Add tests with Jest,Done,Zungrysoft,None,02-12-2020 15:14,08-12-2020 17:40,th3n1ghtmanc0m3th
+ChicoState/Playbuddy,0,77,Frontend: Add page for creating an Activity,Done,th3n1ghtmanc0m3th,None,02-12-2020 15:14,08-12-2020 15:31,RetroJect
+ChicoState/Playbuddy,0,64,"Backend: Add ""POST editUser"" route",Done,RetroJect,None,02-11-2020 11:30,30-11-2020 15:16,th3n1ghtmanc0m3th
+ChicoState/Playbuddy,0,63,"Backend: Add ""GET search"" route",Done,None,None,02-11-2020 11:29,02-11-2020 11:29,RetroJect
+ChicoState/Playbuddy,0,62,"Backend: Add ""POST createUser"" route",Done,RetroJect,None,02-11-2020 11:29,29-11-2020 15:45,RetroJect
+ChicoState/Playbuddy,0,61,"Backend: Add ""GET user"" route",Done,RetroJect,None,02-11-2020 11:29,30-11-2020 15:16,th3n1ghtmanc0m3th
+ChicoState/Playbuddy,0,51,Frontend: Pass authentication details to all backend routes,Done,th3n1ghtmanc0m3th,None,19-10-2020 15:21,02-12-2020 15:04,Zungrysoft
+ChicoState/Playbuddy,0,50,Backend: Implement authentication to relevant routes,Done,"RetroJect,Zungrysoft",None,19-10-2020 15:20,26-10-2020 00:28,Zungrysoft
+ChicoState/Playbuddy,0,47,Backend: Add ability to sort and filter activity list by location and time of creation,Done,mansidogra1,None,19-10-2020 15:12,28-10-2020 15:04,mansidogra1
+ChicoState/Playbuddy,0,46,Frontend: Add UI for activity list filter,Done,mansidogra1,None,19-10-2020 15:11,16-11-2020 21:08,mansidogra1
+ChicoState/Playbuddy,0,45,"Backend: Add ""create account"" route",Done,"RetroJect,Zungrysoft",None,19-10-2020 15:10,26-10-2020 15:12,Zungrysoft
+ChicoState/Playbuddy,0,44,Backend: Add logout route,Done,"RetroJect,Zungrysoft",None,19-10-2020 15:10,26-10-2020 00:28,Zungrysoft
+ChicoState/Playbuddy,0,43,Backend: Add login route,Done,"RetroJect,Zungrysoft",None,19-10-2020 15:09,26-10-2020 00:28,Zungrysoft
+ChicoState/Playbuddy,0,42,Backend: Add Authentication Middleware,Done,"RetroJect,Zungrysoft",None,19-10-2020 15:09,26-10-2020 00:28,Zungrysoft
+ChicoState/Playbuddy,0,41,Create repository documentation,Done,RetroJect,Improvements or additions to documentation,16-10-2020 19:25,31-10-2020 22:39,Zungrysoft
+ChicoState/Playbuddy,0,38,Frontend: Add app navigation bar,Done,RetroJect,None,14-10-2020 09:47,14-10-2020 14:37,Zungrysoft
+ChicoState/Playbuddy,0,35,Frontend: Connect activity list and view pages with backend,Done,mansidogra1,None,12-10-2020 10:12,16-11-2020 21:08,mansidogra1
+ChicoState/Playbuddy,0,33,Backend: Add request for editing user profile.,Done,mansidogra1,None,07-10-2020 15:45,16-11-2020 21:08,mansidogra1
+ChicoState/Playbuddy,0,32,Backend: Add request for editing activities,Done,Zungrysoft,None,07-10-2020 15:44,31-10-2020 17:35,Zungrysoft
+ChicoState/Playbuddy,0,31,Backend: Add create request for activity.,Done,Zungrysoft,None,07-10-2020 15:43,14-10-2020 15:37,RetroJect
+ChicoState/Playbuddy,0,29,Frontend: Add view activity page,Done,None,This issue or pull request already exists,07-10-2020 11:29,07-10-2020 14:10,Zungrysoft
+ChicoState/Playbuddy,0,28,Frontend: Add activity list page,Done,th3n1ghtmanc0m3th,None,07-10-2020 11:25,14-10-2020 15:12,Zungrysoft
+ChicoState/Playbuddy,0,27,Backend: Add get request for activity,Done,Zungrysoft,None,07-10-2020 11:23,14-10-2020 15:37,RetroJect
+ChicoState/Playbuddy,0,26,Backend: Add model for activity,Done,Zungrysoft,None,07-10-2020 11:22,14-10-2020 14:40,Zungrysoft
+ChicoState/Playbuddy,0,25,Frontend: Add view activity page.,Done,None,None,07-10-2020 11:21,07-10-2020 11:25,RetroJect
+ChicoState/Playbuddy,0,24,Backend: Create User Model,Done,Zungrysoft,New feature or request,06-10-2020 20:09,14-10-2020 14:40,Zungrysoft
+ChicoState/Playbuddy,0,23,Backend: Setup Database,Done,"RetroJect,Zungrysoft",New feature or request,06-10-2020 20:09,14-10-2020 14:40,Zungrysoft
+ChicoState/Playbuddy,0,17,Frontend: Add Eslint configuration,Done,RetroJect,None,23-09-2020 20:27,26-09-2020 13:09,RetroJect
+ChicoState/Playbuddy,0,16,Backend: Add Eslint configuration,Done,RetroJect,None,23-09-2020 20:27,26-09-2020 13:09,RetroJect
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",Done,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,18-10-2020 05:46,Zungrysoft
+ChicoState/Playbuddy,0,13,Backend: Setup basic express routing,Done,RetroJect,None,23-09-2020 20:11,05-10-2020 17:32,Zungrysoft
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,Done,"RetroJect,Zungrysoft",None,23-09-2020 20:10,14-10-2020 14:40,Zungrysoft
+ChicoState/Playbuddy,0,11,"Frontend: Add ""Home"" page",Done,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:10,07-10-2020 15:30,RetroJect
+ChicoState/Playbuddy,0,10,Frontend: Add basic React setup,Done,None,None,23-09-2020 20:10,26-09-2020 14:59,RetroJect
+ChicoState/Playbuddy,0,9,Backend: Install express,Done,RetroJect,None,23-09-2020 20:10,05-10-2020 17:32,Zungrysoft
+ChicoState/Playbuddy,0,8,Add Travis CI integration,Done,RetroJect,travis-ci.org,23-09-2020 20:10,19-11-2020 11:11,th3n1ghtmanc0m3th
+ChicoState/Playbuddy,0,6,Setup base node files,Done,None,None,23-09-2020 15:40,23-09-2020 15:47,RetroJect
+ChicoState/Playbuddy,0,3,"User Story: As a user, I would like to make posts describing my event/game",Done,"RetroJect,Zungrysoft,mansidogra1,th3n1ghtmanc0m3th,Viraj-Sonavane",None,20-09-2020 20:14,27-10-2020 02:00,Zungrysoft
+ChicoState/Playbuddy,0,18,Eslint setup,In progress,RetroJect,New feature or request,23-09-2020 20:58,None,None
+ChicoState/Playbuddy,0,17,Frontend: Add Eslint configuration,In progress,RetroJect,None,23-09-2020 20:27,None,None
+ChicoState/Playbuddy,0,17,Frontend: Add Eslint configuration,To do,RetroJect,None,23-09-2020 20:27,None,None
+ChicoState/Playbuddy,0,16,Backend: Add Eslint configuration,In progress,RetroJect,None,23-09-2020 20:27,None,None
+ChicoState/Playbuddy,0,16,Backend: Add Eslint configuration,To do,RetroJect,None,23-09-2020 20:27,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,In progress,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,14,"Frontend: Add ""User Profile"" page",In progress,"mansidogra1,Viraj-Sonavane",New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,10,Frontend: Add basic React setup,In progress,None,None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,In progress,"RetroJect,Zungrysoft",None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,13,Backend: Setup basic express routing,In progress,RetroJect,None,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,9,Backend: Install express,In progress,RetroJect,None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,11,"Frontend: Add ""Home"" page",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,14,"Frontend: Add ""User Profile"" page",To do,"mansidogra1,Viraj-Sonavane",New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,13,Backend: Setup basic express routing,To do,RetroJect,None,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,To do,"RetroJect,Zungrysoft",None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,11,"Frontend: Add ""Home"" page",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,10,Frontend: Add basic React setup,To do,None,None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,9,Backend: Install express,To do,RetroJect,None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,To do,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,1,"User Story: As a user, I would like to follow/connect with other users",In progress,Zungrysoft,None,20-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,7,"Add package.json files, and gitignore",Reviewer approved,RetroJect,None,23-09-2020 15:41,None,None
+ChicoState/Playbuddy,0,7,"Add package.json files, and gitignore",In progress,RetroJect,None,23-09-2020 15:41,None,None
+ChicoState/Playbuddy,0,6,Setup base node files,To do,None,None,23-09-2020 15:40,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,3,"User Story: As a user, I would like to make posts describing my event/game",In progress,"RetroJect,Zungrysoft,mansidogra1,th3n1ghtmanc0m3th,Viraj-Sonavane",None,20-09-2020 20:14,None,None
+ChicoState/Playbuddy,0,4,"User story: As a user, I'd like to respond to other user's posts",In progress,"RetroJect,Zungrysoft,mansidogra1,th3n1ghtmanc0m3th,Viraj-Sonavane",None,20-09-2020 20:14,None,None
+ChicoState/Playbuddy,0,4,"User story: As a user, I'd like to respond to other user's posts",In progress,"RetroJect,Zungrysoft,mansidogra1,th3n1ghtmanc0m3th,Viraj-Sonavane",None,20-09-2020 20:14,None,None
+ChicoState/Playbuddy,0,2,"User story: As a user,  I would like to have a profile that other users can view",In progress,RetroJect,None,20-09-2020 20:12,None,None
+ChicoState/Playbuddy,0,3,"User Story: As a user, I would like to make posts describing my event/game",In progress,"RetroJect,Zungrysoft,mansidogra1,th3n1ghtmanc0m3th,Viraj-Sonavane",None,20-09-2020 20:14,None,None
+ChicoState/Playbuddy,0,1,"User Story: As a user, I would like to follow/connect with other users",In progress,Zungrysoft,None,20-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,29,Frontend: Add view activity page,To do,None,This issue or pull request already exists,07-10-2020 11:29,None,None
+ChicoState/Playbuddy,0,26,Backend: Add model for activity,To do,Zungrysoft,None,07-10-2020 11:22,None,None
+ChicoState/Playbuddy,0,27,Backend: Add get request for activity,To do,Zungrysoft,None,07-10-2020 11:23,None,None
+ChicoState/Playbuddy,0,28,Frontend: Add activity list page,To do,th3n1ghtmanc0m3th,None,07-10-2020 11:25,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,24,Backend: Create User Model,In progress,Zungrysoft,New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,23,Backend: Setup Database,In progress,"RetroJect,Zungrysoft",New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,In progress,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,21,Express setup,Reviewer approved,RetroJect,New feature or request,04-10-2020 15:37,None,None
+ChicoState/Playbuddy,0,22,initial draft of home page: added pages and components folder,Review in progress,th3n1ghtmanc0m3th,None,04-10-2020 16:45,None,None
+ChicoState/Playbuddy,0,22,initial draft of home page: added pages and components folder,In progress,th3n1ghtmanc0m3th,None,04-10-2020 16:45,None,None
+ChicoState/Playbuddy,0,21,Express setup,In progress,RetroJect,New feature or request,04-10-2020 15:37,None,Joseph-Levin
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,To do,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,To do,"RetroJect,Zungrysoft",None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,20,Add React Router and basic routing,Reviewer approved,RetroJect,New feature or request,28-09-2020 16:28,None,None
+ChicoState/Playbuddy,0,20,Add React Router and basic routing,In progress,RetroJect,New feature or request,28-09-2020 16:28,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,2,"User story: As a user,  I would like to have a profile that other users can view",In progress,RetroJect,None,20-09-2020 20:12,None,None
+ChicoState/Playbuddy,0,19,Create React App,In progress,RetroJect,New feature or request,26-09-2020 14:50,None,None
+ChicoState/Playbuddy,0,29,Frontend: Add view activity page,To do,None,This issue or pull request already exists,07-10-2020 11:29,None,None
+ChicoState/Playbuddy,0,26,Backend: Add model for activity,To do,Zungrysoft,None,07-10-2020 11:22,None,None
+ChicoState/Playbuddy,0,27,Backend: Add get request for activity,To do,Zungrysoft,None,07-10-2020 11:23,None,None
+ChicoState/Playbuddy,0,28,Frontend: Add activity list page,To do,th3n1ghtmanc0m3th,None,07-10-2020 11:25,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,24,Backend: Create User Model,In progress,Zungrysoft,New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,23,Backend: Setup Database,In progress,"RetroJect,Zungrysoft",New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,In progress,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,21,Express setup,Reviewer approved,RetroJect,New feature or request,04-10-2020 15:37,None,None
+ChicoState/Playbuddy,0,22,initial draft of home page: added pages and components folder,Review in progress,th3n1ghtmanc0m3th,None,04-10-2020 16:45,None,None
+ChicoState/Playbuddy,0,22,initial draft of home page: added pages and components folder,In progress,th3n1ghtmanc0m3th,None,04-10-2020 16:45,None,None
+ChicoState/Playbuddy,0,21,Express setup,In progress,RetroJect,New feature or request,04-10-2020 15:37,None,Joseph-Levin
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,To do,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,To do,"RetroJect,Zungrysoft",None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",In progress,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,20,Add React Router and basic routing,Reviewer approved,RetroJect,New feature or request,28-09-2020 16:28,None,None
+ChicoState/Playbuddy,0,20,Add React Router and basic routing,In progress,RetroJect,New feature or request,28-09-2020 16:28,None,None
+ChicoState/Playbuddy,0,15,"Frontend: Add a dynamic ""Post"" page, displaying a post by id",To do,th3n1ghtmanc0m3th,New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,2,"User story: As a user,  I would like to have a profile that other users can view",In progress,RetroJect,None,20-09-2020 20:12,None,None
+ChicoState/Playbuddy,0,19,Create React App,In progress,RetroJect,New feature or request,26-09-2020 14:50,None,None
+ChicoState/Playbuddy,0,39,Add basic app bar,Reviewer approved,RetroJect,None,14-10-2020 10:17,None,None
+ChicoState/Playbuddy,0,36,Added base code for activity requests.,Reviewer approved,Zungrysoft,None,12-10-2020 16:55,None,None
+ChicoState/Playbuddy,0,37,Create database connection and add basic models,Reviewer approved,RetroJect,None,14-10-2020 09:40,None,None
+ChicoState/Playbuddy,0,39,Add basic app bar,In progress,RetroJect,None,14-10-2020 10:17,None,None
+ChicoState/Playbuddy,0,38,Frontend: Add app navigation bar,In progress,RetroJect,None,14-10-2020 09:47,None,None
+ChicoState/Playbuddy,0,24,Backend: Create User Model,In progress,Zungrysoft,New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,36,Added base code for activity requests.,In progress,Zungrysoft,None,12-10-2020 16:55,None,None
+ChicoState/Playbuddy,0,37,Create database connection and add basic models,In progress,RetroJect,None,14-10-2020 09:40,None,dlhedglin
+ChicoState/Playbuddy,0,34,Commits for Issue 15,Review in progress,th3n1ghtmanc0m3th,None,11-10-2020 21:12,None,dlhedglin
+ChicoState/Playbuddy,0,34,Commits for Issue 15,In progress,th3n1ghtmanc0m3th,None,11-10-2020 21:12,None,None
+ChicoState/Playbuddy,0,35,Frontend: Connect activity list and view pages with backend,In progress,mansidogra1,None,12-10-2020 10:12,None,None
+ChicoState/Playbuddy,0,12,Backend: Add connection to database,In progress,"RetroJect,Zungrysoft",None,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,35,Frontend: Connect activity list and view pages with backend,To do,mansidogra1,None,12-10-2020 10:12,None,None
+ChicoState/Playbuddy,0,32,Backend: Add request for editing activities,To do,Zungrysoft,None,07-10-2020 15:44,None,None
+ChicoState/Playbuddy,0,24,Backend: Create User Model,To do,Zungrysoft,New feature or request,06-10-2020 20:09,None,None
+ChicoState/Playbuddy,0,14,"Frontend: Add ""User Profile"" page",To do,"mansidogra1,Viraj-Sonavane",New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,To do,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,33,Backend: Add request for editing user profile.,To do,mansidogra1,None,07-10-2020 15:45,None,None
+ChicoState/Playbuddy,0,32,Backend: Add request for editing activities,In progress,Zungrysoft,None,07-10-2020 15:44,None,None
+ChicoState/Playbuddy,0,31,Backend: Add create request for activity.,In progress,Zungrysoft,None,07-10-2020 15:43,None,None
+ChicoState/Playbuddy,0,32,Backend: Add request for editing activities,To do,Zungrysoft,None,07-10-2020 15:44,None,None
+ChicoState/Playbuddy,0,31,Backend: Add create request for activity.,To do,Zungrysoft,None,07-10-2020 15:43,None,None
+ChicoState/Playbuddy,0,26,Backend: Add model for activity,In progress,Zungrysoft,None,07-10-2020 11:22,None,None
+ChicoState/Playbuddy,0,27,Backend: Add get request for activity,In progress,Zungrysoft,None,07-10-2020 11:23,None,None
+ChicoState/Playbuddy,0,28,Frontend: Add activity list page,In progress,th3n1ghtmanc0m3th,None,07-10-2020 11:25,None,None
+ChicoState/Playbuddy,0,30,Added ui plan,Reviewer approved,None,None,07-10-2020 15:39,None,None
+ChicoState/Playbuddy,0,30,Added ui plan,In progress,None,None,07-10-2020 15:39,None,None
+ChicoState/Playbuddy,0,22,initial draft of home page: added pages and components folder,Reviewer approved,th3n1ghtmanc0m3th,None,04-10-2020 16:45,None,None
+ChicoState/Playbuddy,0,52,Local auth setup,Reviewer approved,RetroJect,None,21-10-2020 20:06,None,None
+ChicoState/Playbuddy,0,52,Local auth setup,In progress,RetroJect,None,21-10-2020 20:06,None,None
+ChicoState/Playbuddy,0,42,Backend: Add Authentication Middleware,In progress,"RetroJect,Zungrysoft",None,19-10-2020 15:09,None,LWZearfoss
+ChicoState/Playbuddy,0,43,Backend: Add login route,In progress,"RetroJect,Zungrysoft",None,19-10-2020 15:09,None,None
+ChicoState/Playbuddy,0,44,Backend: Add logout route,In progress,"RetroJect,Zungrysoft",None,19-10-2020 15:10,None,None
+ChicoState/Playbuddy,0,45,"Backend: Add ""create account"" route",In progress,"RetroJect,Zungrysoft",None,19-10-2020 15:10,None,None
+ChicoState/Playbuddy,0,51,Frontend: Pass authentication details to all backend routes,In progress,th3n1ghtmanc0m3th,None,19-10-2020 15:21,None,None
+ChicoState/Playbuddy,0,50,Backend: Implement authentication to relevant routes,In progress,"RetroJect,Zungrysoft",None,19-10-2020 15:20,None,None
+ChicoState/Playbuddy,0,51,Frontend: Pass authentication details to all backend routes,To do,th3n1ghtmanc0m3th,None,19-10-2020 15:21,None,None
+ChicoState/Playbuddy,0,50,Backend: Implement authentication to relevant routes,To do,"RetroJect,Zungrysoft",None,19-10-2020 15:20,None,None
+ChicoState/Playbuddy,0,49,Frontend: Force user to select a scheduled time when creating an activity,To do,mansidogra1,None,19-10-2020 15:15,None,None
+ChicoState/Playbuddy,0,48,Frontend: Pass the user's current location to the backend when sorting or filtering by distance.,To do,mansidogra1,None,19-10-2020 15:14,None,None
+ChicoState/Playbuddy,0,47,Backend: Add ability to sort and filter activity list by location and time of creation,To do,mansidogra1,None,19-10-2020 15:12,None,None
+ChicoState/Playbuddy,0,46,Frontend: Add UI for activity list filter,To do,mansidogra1,None,19-10-2020 15:11,None,None
+ChicoState/Playbuddy,0,45,"Backend: Add ""create account"" route",To do,"RetroJect,Zungrysoft",None,19-10-2020 15:10,None,None
+ChicoState/Playbuddy,0,44,Backend: Add logout route,To do,"RetroJect,Zungrysoft",None,19-10-2020 15:10,None,None
+ChicoState/Playbuddy,0,43,Backend: Add login route,To do,"RetroJect,Zungrysoft",None,19-10-2020 15:09,None,None
+ChicoState/Playbuddy,0,42,Backend: Add Authentication Middleware,To do,"RetroJect,Zungrysoft",None,19-10-2020 15:09,None,None
+ChicoState/Playbuddy,0,32,Backend: Add request for editing activities,In progress,Zungrysoft,None,07-10-2020 15:44,None,None
+ChicoState/Playbuddy,0,14,"Frontend: Add ""User Profile"" page",In progress,"mansidogra1,Viraj-Sonavane",New feature or request,23-09-2020 20:11,None,None
+ChicoState/Playbuddy,0,41,Create repository documentation,In progress,RetroJect,Improvements or additions to documentation,16-10-2020 19:25,None,None
+ChicoState/Playbuddy,0,40,Connected backend with database,Reviewer approved,Zungrysoft,None,15-10-2020 21:11,None,None
+ChicoState/Playbuddy,0,34,Commits for Issue 15,Reviewer approved,th3n1ghtmanc0m3th,None,11-10-2020 21:12,None,None
+ChicoState/Playbuddy,0,41,Create repository documentation,To do,RetroJect,Improvements or additions to documentation,16-10-2020 19:25,None,None
+ChicoState/Playbuddy,0,40,Connected backend with database,Review in progress,Zungrysoft,None,15-10-2020 21:11,None,None
+ChicoState/Playbuddy,0,40,Connected backend with database,In progress,Zungrysoft,None,15-10-2020 21:11,None,None
+ChicoState/Playbuddy,0,53,Pages Added,Review in progress,Viraj-Sonavane,None,25-10-2020 20:24,None,Colton0012
+ChicoState/Playbuddy,0,66,Travis-CI integration,In progress,RetroJect,None,02-11-2020 14:50,None,Colton0012
+ChicoState/Playbuddy,0,65,Update activity route to send User data,In progress,RetroJect,None,02-11-2020 14:25,None,None
+ChicoState/Playbuddy,0,64,"Backend: Add ""POST editUser"" route",To do,RetroJect,None,02-11-2020 11:30,None,None
+ChicoState/Playbuddy,0,8,Add Travis CI integration,In progress,RetroJect,travis-ci.org,23-09-2020 20:10,None,None
+ChicoState/Playbuddy,0,63,"Backend: Add ""GET search"" route",To do,None,None,02-11-2020 11:29,None,None
+ChicoState/Playbuddy,0,62,"Backend: Add ""POST createUser"" route",To do,RetroJect,None,02-11-2020 11:29,None,None
+ChicoState/Playbuddy,0,61,"Backend: Add ""GET user"" route",To do,RetroJect,None,02-11-2020 11:29,None,None
+ChicoState/Playbuddy,0,5,"As I user, I would like to be able to delete my account",In progress,"mansidogra1,Viraj-Sonavane",None,21-09-2020 15:21,None,None
+ChicoState/Playbuddy,0,2,"User story: As a user,  I would like to have a profile that other users can view",In progress,RetroJect,None,20-09-2020 20:12,None,None
+ChicoState/Playbuddy,0,59,modify activitiyPage to include fetch data from api,Review in progress,th3n1ghtmanc0m3th,None,01-11-2020 12:17,None,None
+ChicoState/Playbuddy,0,59,modify activitiyPage to include fetch data from api,In progress,th3n1ghtmanc0m3th,None,01-11-2020 12:17,None,None
+ChicoState/Playbuddy,0,54,"Implemented edit request, added start/end dates to activities, added search features",Reviewer approved,None,None,26-10-2020 16:59,None,None
+ChicoState/Playbuddy,0,58,Documentation upgrade,Reviewer approved,RetroJect,Improvements or additions to documentation,30-10-2020 18:01,None,None
+ChicoState/Playbuddy,0,58,Documentation upgrade,In progress,RetroJect,Improvements or additions to documentation,30-10-2020 18:01,None,None
+ChicoState/Playbuddy,0,57,Add host check to protect against host header attacks,To do,None,None,29-10-2020 02:50,None,None
+ChicoState/Playbuddy,0,56,Add CSRF Protection,To do,None,None,29-10-2020 01:43,None,None
+ChicoState/Playbuddy,0,53,Pages Added,In progress,Viraj-Sonavane,None,25-10-2020 20:24,None,None
+ChicoState/Playbuddy,0,53,Pages Added,Review in progress,Viraj-Sonavane,None,25-10-2020 20:24,None,None
+ChicoState/Playbuddy,0,54,"Implemented edit request, added start/end dates to activities, added search features",Review in progress,None,None,26-10-2020 16:59,None,None
+ChicoState/Playbuddy,0,54,"Implemented edit request, added start/end dates to activities, added search features",In progress,None,None,26-10-2020 16:59,None,None
+ChicoState/Playbuddy,0,53,Pages Added,In progress,Viraj-Sonavane,None,25-10-2020 20:24,None,None
+ChicoState/Playbuddy,0,77,Frontend: Add page for creating an Activity,In progress,th3n1ghtmanc0m3th,None,02-12-2020 15:14,None,Joseph-Levin
+ChicoState/Playbuddy,0,78,Backend: Add tests with Jest,In progress,Zungrysoft,None,02-12-2020 15:14,None,Joseph-Levin
+ChicoState/Playbuddy,0,78,Backend: Add tests with Jest,To do,Zungrysoft,None,02-12-2020 15:14,None,Joseph-Levin
+ChicoState/Playbuddy,0,77,Frontend: Add page for creating an Activity,To do,th3n1ghtmanc0m3th,None,02-12-2020 15:14,None,None
+ChicoState/Playbuddy,0,71,Update index.js line #10 and line #16,Reviewer approved,mansidogra1,None,16-11-2020 14:21,None,None
+ChicoState/Playbuddy,0,72,updated line #22,Reviewer approved,mansidogra1,None,16-11-2020 14:29,None,None
+ChicoState/Playbuddy,0,74,Added user routes,Reviewer approved,RetroJect,None,29-11-2020 17:41,None,None
+ChicoState/Playbuddy,0,59,modify activitiyPage to include fetch data from api,Reviewer approved,th3n1ghtmanc0m3th,None,01-11-2020 12:17,None,None
+ChicoState/Playbuddy,0,74,Added user routes,Review in progress,RetroJect,None,29-11-2020 17:41,None,None
+ChicoState/Playbuddy,0,74,Added user routes,In progress,RetroJect,None,29-11-2020 17:41,None,None
+ChicoState/Playbuddy,0,66,Travis-CI integration,Reviewer approved,RetroJect,None,02-11-2020 14:50,None,None
+ChicoState/Playbuddy,0,71,Update index.js line #10 and line #16,In progress,mansidogra1,None,16-11-2020 14:21,None,None
+ChicoState/Playbuddy,0,73,Activity page updated - Add UI for activity list filter issue #46,In progress,mansidogra1,None,16-11-2020 14:32,None,None
+ChicoState/Playbuddy,0,72,updated line #22,In progress,mansidogra1,None,16-11-2020 14:29,None,None
+ChicoState/Playbuddy,0,65,Update activity route to send User data,Reviewer approved,RetroJect,None,02-11-2020 14:25,None,None
+ChicoState/Playbuddy,0,69,Issue #33: Add request for editing user profile,In progress,mansidogra1,None,09-11-2020 09:53,None,None
+ChicoState/Playbuddy,0,70,Updated index.js for mongoURL path,In progress,mansidogra1,None,09-11-2020 09:58,None,None
+ChicoState/Playbuddy,0,64,"Backend: Add ""POST editUser"" route",In progress,RetroJect,None,02-11-2020 11:30,None,None
+ChicoState/Playbuddy,0,62,"Backend: Add ""POST createUser"" route",In progress,RetroJect,None,02-11-2020 11:29,None,None
+ChicoState/Playbuddy,0,61,"Backend: Add ""GET user"" route",In progress,RetroJect,None,02-11-2020 11:29,None,None
+ChicoState/Playbuddy,0,85,Added zipcode-based distance check to search,Reviewer approved,Zungrysoft,None,09-12-2020 14:48,None,None
+ChicoState/Playbuddy,0,88,Update eslint,In progress,RetroJect,None,13-12-2020 13:30,None,None
+ChicoState/Playbuddy,0,85,Added zipcode-based distance check to search,In progress,Zungrysoft,None,09-12-2020 14:48,None,None
+ChicoState/Playbuddy,0,87,"User Story: As a user, I want to know which are on-going games or events around me right now to join-in",In progress,None,None,10-12-2020 12:45,None,None
+ChicoState/Playbuddy,0,84,Update Travis config to run backend tests,Reviewer approved,RetroJect,None,09-12-2020 12:03,None,None
+ChicoState/Playbuddy,0,84,Update Travis config to run backend tests,In progress,RetroJect,None,09-12-2020 12:03,None,None
+ChicoState/Playbuddy,0,83,Cleanup Frontend,Reviewer approved,RetroJect,None,08-12-2020 17:54,None,None
+ChicoState/Playbuddy,0,83,Cleanup Frontend,In progress,RetroJect,None,08-12-2020 17:54,None,None
+ChicoState/Playbuddy,0,81,added create activity page,Reviewer approved,th3n1ghtmanc0m3th,None,05-12-2020 15:52,None,None
+ChicoState/Playbuddy,0,81,added create activity page,In progress,th3n1ghtmanc0m3th,None,05-12-2020 15:52,None,None
+ChicoState/Playbuddy,0,70,Updated index.js for mongoURL path,Reviewer approved,mansidogra1,None,09-11-2020 09:58,None,None
+ChicoState/Playbuddy,0,70,Updated index.js for mongoURL path,Review in progress,mansidogra1,None,09-11-2020 09:58,None,None
+ChicoState/Portfolio,0,5,"As a writer, I want to post written works to my profile.",To Do,"LWZearfoss,Joseph-Levin",About half a week's worth of work,18-09-2020 17:31,None,None
+ChicoState/Portfolio,0,3,As a user I want to be able to search through different categories and browse other users' content.,To Do,Colton0012,Full Week's worth of work,18-09-2020 17:31,None,None
+ChicoState/Portfolio,0,4,"As a photographer, I want to be able to post my images.",To Do,"dlhedglin,LWZearfoss",About half a week's worth of work,18-09-2020 17:31,None,None
+ChicoState/Portfolio,0,7,As a general user I would like to chat with other users about their works.,To Do,"dlhedglin,Colton0012",Very Large Task: Will probably take a full sprint with multiple people working on it,18-09-2020 17:31,None,None
+ChicoState/Portfolio,0,5,"As a writer, I want to post written works to my profile.",To Do,"LWZearfoss,Joseph-Levin",About half a week's worth of work,18-09-2020 17:31,None,None
+ChicoState/Revercipe,0,55,"As a user, I want to be able to search by category.",Done,brentde,None,07-12-2020 16:45,07-12-2020 16:55,brentde
+ChicoState/Revercipe,0,53,"As a user, I want to be able to apply categories to the recipes I create.",Done,brentde,None,03-12-2020 20:47,07-12-2020 16:55,brentde
+ChicoState/Revercipe,0,49,"As a user, I want to see a list of steps on how to re-create a recipe.",Done,BFlorek95,None,18-11-2020 12:21,07-12-2020 12:07,BFlorek95
+ChicoState/Revercipe,0,45,"As a user, I want to be able to save and view my favorite recipes.",Done,brentde,None,16-11-2020 12:34,01-12-2020 13:16,brentde
+ChicoState/Revercipe,0,44,"As a user, I want to be able to favorite recipes and view a list of my favorites.",Done,brentde,None,16-11-2020 12:33,16-11-2020 14:54,brentde
+ChicoState/Revercipe,0,40,"As a user, I want to be able to edit and delete recipes I've already created.",Done,brentde,None,02-11-2020 12:50,03-12-2020 20:43,brentde
+ChicoState/Revercipe,0,39,"As a user, I want to have a detailed view of a recipe",Done,BFlorek95,None,02-11-2020 12:39,14-11-2020 17:52,BFlorek95
+ChicoState/Revercipe,0,38,"As a user, I want to be able to add ingredients to my recipes.",Done,brentde,None,02-11-2020 12:38,14-11-2020 14:19,brentde
+ChicoState/Revercipe,0,36,"As a user, I want to be able to filter my search in various ways.",Done,Axanimander,None,02-11-2020 12:31,29-11-2020 14:30,Axanimander
+ChicoState/Revercipe,0,30,Get the site hosted on the cloud,Done,None,None,28-10-2020 12:02,28-10-2020 12:03,Axanimander
+ChicoState/Revercipe,0,29,"As a user, I want to be able to easily access a search bar at all times so that I can always search for recipes.",Done,BFlorek95,None,19-10-2020 12:25,02-11-2020 12:55,BFlorek95
+ChicoState/Revercipe,0,21,Develop database architecture,Done,brentde,None,30-09-2020 12:45,16-10-2020 10:05,Axanimander
+ChicoState/Revercipe,0,19,"As a user, I want to be able to say I've made a recipe, and have a list of recipes I have made in my profile",Done,brentde,None,22-09-2020 10:17,16-11-2020 14:54,brentde
+ChicoState/Revercipe,0,15,"As a user, I want to be able to also see recipes that require just a few more ingredients than I have",Done,Axanimander,None,22-09-2020 10:06,29-11-2020 14:30,Axanimander
+ChicoState/Revercipe,0,12,"As a user, I want to be able to easily add ingredients so that I do not need to guess what is a listed ingredient",Done,"brentde,txiong11",None,19-09-2020 12:00,31-10-2020 17:43,brentde
+ChicoState/Revercipe,0,11,"As a user, I want to be able to submit recipes so that others can search with ingredients and see my recipes",Done,brentde,None,19-09-2020 12:00,29-10-2020 22:41,brentde
+ChicoState/Revercipe,0,10,"As a person who enjoys cooking as a hobby, I want to be able to communicate with others about our favorite recipes.",Done,brentde,None,19-09-2020 12:00,17-11-2020 13:28,brentde
+ChicoState/Revercipe,0,9,As a user I want to be able to log in so that I can have a profile with my recipes and ingredients,Done,brentde,None,19-09-2020 12:00,15-10-2020 14:02,brentde
+ChicoState/Revercipe,0,8,"As a user, I want to be able to search for recipes by category (vegan, mediterranean, etc.)",Done,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 12:00,04-10-2020 13:53,brentde
+ChicoState/Revercipe,0,6,"As a user, I want an easy to navigate webpage.",Done,BFlorek95,None,19-09-2020 11:59,16-10-2020 18:37,BFlorek95
+ChicoState/Revercipe,0,4,"As a person who cares about the quality of my recipes, I want others to be able to rate the recipes that I post.",Done,brentde,None,19-09-2020 11:59,17-11-2020 13:28,brentde
+ChicoState/Revercipe,0,3,"As a user, I want to be able to search by an ingredient and get results with recipes that have that ingredient",Done,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 11:54,02-10-2020 10:55,Axanimander
+ChicoState/Revercipe,0,2,Determine data models,Done,Axanimander,None,19-09-2020 11:26,16-10-2020 10:05,Axanimander
+ChicoState/Revercipe,0,8,"As a user, I want to be able to search for recipes by category (vegan, mediterranean, etc.)",In progress,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 12:00,None,None
+ChicoState/Revercipe,0,3,"As a user, I want to be able to search by an ingredient and get results with recipes that have that ingredient",In progress,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 11:54,None,None
+ChicoState/Revercipe,0,8,"As a user, I want to be able to search for recipes by category (vegan, mediterranean, etc.)",To do,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 12:00,None,None
+ChicoState/Revercipe,0,9,As a user I want to be able to log in so that I can have a profile with my recipes and ingredients,To do,brentde,None,19-09-2020 12:00,None,None
+ChicoState/Revercipe,0,3,"As a user, I want to be able to search by an ingredient and get results with recipes that have that ingredient",To do,"Axanimander,BFlorek95,brentde,txiong11",None,19-09-2020 11:54,None,None
+ChicoState/Revercipe,0,6,"As a user, I want an easy to navigate webpage.",To do,BFlorek95,None,19-09-2020 11:59,None,None
+
+ChicoState/Storebud,0,1,"As a new user, I want to be able to create an account, so that I can begin using the app and access all its features",Done,tanyabonilla,None,20-09-2020 15:54,19-10-2020 12:37,tanyabonilla
+ChicoState/Storebud,0,5,"As a user, I would like to be able to apply coupons to my list of items in order to further compare prices.",To do,None,None,20-09-2020 18:59,None,None
+ChicoState/Storebud,0,3,"As a budgeter, I would like to see the calculated price of my listed items including sales tax, so that I can have an estimate on how much I am spending per item.",In progress,"eBagaoisan,tanyabonilla,dlhazelton",None,20-09-2020 16:38,None,None
+ChicoState/Storebud,0,8,"As a concerned thrift shopper, I would like to be able to know which products I am buying from which store without having to go back for products I may have missed.",In progress,None,None,07-10-2020 12:29,None,None
+ChicoState/Storebud,0,6,"As a college student, I would like to find lower priced healthy foods, so I can eat better while saving for my tuition.",To do,None,None,20-09-2020 19:00,None,None
+ChicoState/Storebud,0,4,"As a low income single parent, I would like to be able to search for the lowest costs for products that I am looking for.",In progress,None,None,20-09-2020 18:42,None,None
+ChicoState/Storebud,0,11,"As a user, I would like to have the option to log out of my account.",In progress,tanyabonilla,1st Priority,08-11-2020 20:46,None,None
+ChicoState/Storebud,0,4,"As a low income single parent, I would like to be able to search for the lowest costs for products that I am looking for.",To do,None,None,20-09-2020 18:42,None,None
+ChicoState/Storebud,0,3,"As a budgeter, I would like to see the calculated price of my listed items including sales tax, so that I can have an estimate on how much I am spending per item.",In progress,"eBagaoisan,tanyabonilla,dlhazelton",None,20-09-2020 16:38,None,None
+ChicoState/Storebud,0,8,"As a concerned thrift shopper, I would like to be able to know which products I am buying from which store without having to go back for products I may have missed.",To do,None,None,07-10-2020 12:29,None,None
+ChicoState/Storebud,0,3,"As a budgeter, I would like to see the calculated price of my listed items including sales tax, so that I can have an estimate on how much I am spending per item.",To do,"eBagaoisan,tanyabonilla,dlhazelton",None,20-09-2020 16:38,None,None
+ChicoState/Storebud,0,1,"As a new user, I want to be able to create an account, so that I can begin using the app and access all its features",In progress,tanyabonilla,None,20-09-2020 15:54,None,None
+ChicoState/Storebud,0,2,"As a user, I would like to be able to create a list of items that I need from the store, so that I can have it stored in the app for future reference.",In progress,"eBagaoisan,dlhazelton",1st Priority,20-09-2020 16:06,None,None
+ChicoState/Storebud,0,1,"As a new user, I want to be able to create an account, so that I can begin using the app and access all its features",To do,tanyabonilla,None,20-09-2020 15:54,None,None
+ChicoState/Storebud,0,1,"As a new user, I want to be able to create an account, so that I can begin using the app and access all its features",To do,tanyabonilla,None,20-09-2020 15:54,None,None
+ChicoState/Storebud,0,2,"As a user, I would like to be able to create a list of items that I need from the store, so that I can have it stored in the app for future reference.",To do,"eBagaoisan,dlhazelton",1st Priority,20-09-2020 16:06,None,None
+ChicoState/Storebud,0,1,"As a new user, I want to be able to create an account, so that I can begin using the app and access all its features",To do,tanyabonilla,None,20-09-2020 15:54,None,None
+
+ChicoState/WhattoWatch,0,17,"""Getting started"" on README.md",Done,chodges7,2 Points,08-10-2020 13:55,21-10-2020 12:02,chodges7
+ChicoState/WhattoWatch,0,14,"As a consumer, I want to be able to easily identify this product",Done,Lpecson,3 Points,30-09-2020 11:07,21-10-2020 12:02,chodges7
+ChicoState/WhattoWatch,0,11,As a User I want a easily accessible and clean UI [1],Done,None,None,21-09-2020 12:52,21-09-2020 12:53,Lpecson
+ChicoState/WhattoWatch,0,9,"[Search Bar] As a person who pays for streaming services, I want to search for movies on those services all at once.",Done,chodges7,4 Points,20-09-2020 14:42,01-12-2020 21:26,chodges7
+ChicoState/WhattoWatch,0,8,"[Search bar] As a typical user, I want to watch popular movies / TV shows that I have access to.",Done,chodges7,4 Points,20-09-2020 14:40,01-12-2020 21:26,chodges7
+ChicoState/WhattoWatch,0,7,"as a personal user, I want to be able to edit a personal profile.",Done,chodges7,3 Points,18-09-2020 14:44,21-10-2020 12:02,chodges7
+ChicoState/WhattoWatch,0,6,"As a typical user, I want to have a centralized place to use this service",Done,vdhaka,5 Points,18-09-2020 13:56,21-10-2020 12:02,chodges7
+ChicoState/WhattoWatch,0,4,"As a personal user, I want to be able to customize my account with a profile picture like Netflix",Done,chodges7,2 Points,16-09-2020 23:37,20-10-2020 13:30,chodges7
+ChicoState/WhattoWatch,0,3,"As a typical user, I want a page that shows me what I haven't seen yet.",Done,chodges7,3 Points,16-09-2020 23:36,01-12-2020 21:26,chodges7
+ChicoState/WhattoWatch,0,10,"as a person, I want to eat",In progress,Lpecson,1 Point,21-09-2020 12:40,None,None
+ChicoState/WhattoWatch,0,10,"as a person, I want to eat",To do,Lpecson,1 Point,21-09-2020 12:40,None,None
+ChicoState/WhattoWatch,0,7,"as a personal user, I want to be able to edit a personal profile.",To do,chodges7,3 Points,18-09-2020 14:44,None,None
+ChicoState/WhattoWatch,0,4,"As a personal user, I want to be able to customize my account with a profile picture like Netflix",To do,chodges7,2 Points,16-09-2020 23:37,None,None
+ChicoState/WhattoWatch,0,1,"As a typical user, I don't want to have to sign in to my Netflix, Hulu, and Amazon accounts every time I use WTW.",To do,None,3 Points,16-09-2020 23:33,None,None
+ChicoState/WhattoWatch,0,6,"As a typical user, I want to have a centralized place to use this service",To do,vdhaka,5 Points,18-09-2020 13:56,None,None
+ChicoState/Assistop,0,33,We need to be able to turn on and off the assistant's communication,Done,None,09-04-2020 18:05,09-04-2020 18:06,Pdhenson
+ChicoState/Assistop,0,21,"[1] As an administrator, i would like to be able to control the assistop hotspot from the assistop webpage",Done,Dragongoat,02-03-2020 13:32,10-03-2020 08:21,Pdhenson
+ChicoState/Assistop,0,19,"[2] As a user, I would like a web page to see what devices my assistop is controlling",Done,garrett1001,02-03-2020 13:31,08-04-2020 13:05,garrett1001
+ChicoState/Assistop,0,18,"[2] As a user, I would like to be able to see what devices the assistop is looking for in a webpage",Done,garrett1001,02-03-2020 13:30,11-03-2020 13:02,Ramsfield
+ChicoState/Assistop,0,17,[3] Be able to know what controlled devices are on the wlan0 network,Done,Pdhenson,02-03-2020 13:27,11-03-2020 11:14,Ramsfield
+ChicoState/Assistop,0,16,[3] Be able to know what controller devices are on the eth0 network,Done,Ramsfield,02-03-2020 13:27,09-03-2020 11:20,Dragongoat
+ChicoState/Assistop,0,5,"[2] As a user, I would like to save my registered devices and setting with my Assistop.",Done,garrett1001,24-02-2020 13:40,10-03-2020 17:38,garrett1001
+ChicoState/Assistop,0,4,"[2] As a user, I would like to have a web page to be able to view the status of my Assistop.",Done,"Dragongoat,Pdhenson",24-02-2020 13:40,02-03-2020 13:37,Dragongoat
+ChicoState/Assistop,0,6,"[3] As a user, I would like to be able to add new devices that Assistop looks for to determine if someone is home.",In progress,"Ramsfield,Pdhenson",24-02-2020 13:40,None,None
+ChicoState/Assistop,0,6,"[3] As a user, I would like to be able to add new devices that Assistop looks for to determine if someone is home.",To do,"Ramsfield,Pdhenson",24-02-2020 13:40,None,None
+ChicoState/Assistop,0,5,"[2] As a user, I would like to save my registered devices and setting with my Assistop.",To do,garrett1001,24-02-2020 13:40,None,None
+ChicoState/Assistop,0,4,"[2] As a user, I would like to have a web page to be able to view the status of my Assistop.",In progress,"Dragongoat,Pdhenson",24-02-2020 13:40,None,None
+ChicoState/BikeLock,0,18,Unit Testing for Locking and Unlocking Bike,Done,None,10-05-2020 00:00,10-05-2020 00:01,mitchmacF,None
+ChicoState/BikeLock,0,17,Unit Testing for Station Finder,Done,None,09-05-2020 15:50,09-05-2020 23:59,mitchmacF,None
+ChicoState/BikeLock,0,16,Unit Testing For User Sign In,Done,None,09-05-2020 14:45,09-05-2020 23:56,mitchmacF,None
+ChicoState/BikeLock,0,14,WebApp - API endpoint for user to check status of bike(s),Done,None,26-04-2020 22:05,10-05-2020 22:51,ericmajidian,New feature or request
+ChicoState/BikeLock,0,13,User Authentication for account against server,Done,None,29-03-2020 16:36,26-04-2020 20:08,carlonavone,None
+ChicoState/BikeLock,0,11,WebApp - API endpoint to trigger call to Raspberry Pi lock API,Done,ericmajidian,10-03-2020 18:32,08-05-2020 18:21,ericmajidian,New feature or request
+ChicoState/BikeLock,0,10,WebApp API to PUT the state from a bike lock station,Done,ericmajidian,09-03-2020 19:45,10-03-2020 14:42,ericmajidian,None
+ChicoState/BikeLock,0,6,Set up docker+django for WebApp,Done,ericmajidian,04-03-2020 11:36,04-03-2020 11:37,ericmajidian,None
+ChicoState/BikeLock,0,5,Write lock and unlock API methods,Done,"ericmajidian,mitchmacF",03-03-2020 15:39,04-03-2020 12:07,ericmajidian,None
+ChicoState/BikeLock,0,4,Organize web API code,Done,"ericmajidian,mitchmacF",03-03-2020 15:38,04-03-2020 12:07,ericmajidian,None
+ChicoState/BikeLock,0,2,Initialize Buildable App Repo,Done,None,19-02-2020 13:27,03-03-2020 15:35,ericmajidian,Good for newcomers
+ChicoState/BikeLock,0,1,Web app base framework required,Done,None,19-02-2020 13:25,03-03-2020 15:35,ericmajidian,Good for newcomers
+ChicoState/BikeLock,0,9,Hardware/ WebApp connection,To-Do,None,04-03-2020 13:34,None,None,New feature or request
+ChicoState/BikeLock,0,7,Hardware - Bike Rack State Getter,To-Do,None,04-03-2020 12:04,None,None,New feature or request
+ChicoState/BikeLock,0,9,Hardware/ WebApp connection,To-Do,None,04-03-2020 13:34,None,None,New feature or request
+ChicoState/BikeLock,0,7,Hardware - Bike Rack State Getter,In progress,None,04-03-2020 12:04,None,None,New feature or request
+ChicoState/BikeLock,0,1,Web app base framework required,In progress,None,19-02-2020 13:25,None,None,Good for newcomers
+ChicoState/BikeLock,0,1,Web app base framework required,In progress,None,19-02-2020 13:25,None,None,Good for newcomers
+ChicoState/BikeLock,0,1,Web app base framework required,In progress,None,19-02-2020 13:25,None,None,Good for newcomers
+ChicoState/BikeLock,0,2,Initialize Buildable App Repo,In progress,None,19-02-2020 13:27,None,None,Good for newcomers
+ChicoState/BikeLock,0,1,Web app base framework required,To do,None,19-02-2020 13:25,None,None,Good for newcomers
+ChicoState/BikeLock,0,1,Web app base framework required,To do,None,19-02-2020 13:25,None,None,Good for newcomers
+ChicoState/BikeLock,0,2,Initialize Buildable App Repo,To do,None,19-02-2020 13:27,None,None,Good for newcomers
+ChicoState/BookGrab,0,19,"As a buyer, I want to know if a book is really still for sale before bothering to reach out.",Done,None,None,26-04-2020 12:27,03-05-2020 22:57,jdlouhy
+ChicoState/BookGrab,0,17,"Automated user creations not displaying name properly on sell page, name comes up as ""null"".",Done,None,None,18-04-2020 14:33,26-04-2020 12:16,jdlouhy
+ChicoState/BookGrab,0,15,Account Register Doesn't link to Database,Done,jdlouhy,None,28-03-2020 16:24,18-04-2020 14:31,jdlouhy
+ChicoState/BookGrab,0,12,"As a buyer, I want to search for items that I am interested in buying.",Done,"stephenyoud,jmeadows4,jdlouhy",None,28-03-2020 16:10,01-05-2020 14:14,jmeadows4
+ChicoState/BookGrab,0,7,"As a user, I want to be able to sign out so that my information is protected if I am using a device other than my own.",Done,jdlouhy,None,04-03-2020 13:23,28-03-2020 16:26,jmeadows4
+ChicoState/BookGrab,0,6,"As a seller, I want to be able to provide a description of the item I am selling.",Done,"stephenyoud,jmeadows4",None,04-03-2020 13:22,28-03-2020 16:25,jmeadows4
+ChicoState/BookGrab,0,5,"As a user, I want a secure form of registering a login account that can be remembered by myself easily, either through my email and password or phone number.",Done,jdlouhy,None,04-03-2020 13:20,28-03-2020 16:26,jmeadows4
+ChicoState/BookGrab,0,3,Get Firebase working with our app,Done,"stephenyoud,jdlouhy",None,19-02-2020 13:29,02-03-2020 13:26,jdlouhy
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",Done,jdlouhy,None,17-02-2020 13:46,04-03-2020 12:41,jdlouhy
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",Done,"stephenyoud,jmeadows4",None,17-02-2020 13:43,08-04-2020 13:09,jmeadows4
+ChicoState/BookGrab,0,6,"As a seller, I want to be able to provide a description of the item I am selling.",To do,"stephenyoud,jmeadows4",None,04-03-2020 13:22,None,None
+ChicoState/BookGrab,0,5,"As a user, I want a secure form of registering a login account that can be remembered by myself easily, either through my email and password or phone number.",In progress,jdlouhy,None,04-03-2020 13:20,None,None
+ChicoState/BookGrab,0,5,"As a user, I want a secure form of registering a login account that can be remembered by myself easily, either through my email and password or phone number.",In progress,jdlouhy,None,04-03-2020 13:20,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",In progress,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",To do,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",In progress,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",Review in progress,jdlouhy,None,17-02-2020 13:46,None,None
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",Review in progress,jdlouhy,None,17-02-2020 13:46,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",To do,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",In progress,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",In progress,jdlouhy,None,17-02-2020 13:46,None,None
+ChicoState/BookGrab,0,3,Get Firebase working with our app,In progress,"stephenyoud,jdlouhy",None,19-02-2020 13:29,None,None
+ChicoState/BookGrab,0,3,Get Firebase working with our app,In progress,"stephenyoud,jdlouhy",None,19-02-2020 13:29,None,None
+ChicoState/BookGrab,0,3,Get Firebase working with our app,To do,"stephenyoud,jdlouhy",None,19-02-2020 13:29,None,None
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",To do,jdlouhy,None,17-02-2020 13:46,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",To do,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,2,"As a user, I want to be able to log in.",In progress,jdlouhy,None,17-02-2020 13:46,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",In progress,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BookGrab,0,1,"As a seller, I want to be able to list my item to sell.",To do,"stephenyoud,jmeadows4",None,17-02-2020 13:43,None,None
+ChicoState/BSafe,0,14,"As a parent, I want to be sure this app has a secure means of access so that my child's information is safe should someone else use their phone.",Done,ssmathistad,Medium,12-04-2020 11:47,21-04-2020 20:37,ssmathistad
+ChicoState/BSafe,0,6,As a student I want to be able to know my current location when I walk home from class,Done,"ssmathistad,callison98",None,02-03-2020 17:49,03-03-2020 01:16,ssmathistad
+ChicoState/BSafe,0,5,"As a commuter, I want to be able to check-in and tell people I trust that I’ve arrived at a destination by a certain time, so I can tell them I made it safely.",Done,"BBBrando,lthornton1",None,18-02-2020 18:01,04-05-2020 23:13,ssmathistad
+ChicoState/BSafe,0,4,"As a friend, I want to be sure my other friends have a discrete means of contacting me so that they can message me when they’re in danger.",Done,"BBBrando,lthornton1",None,18-02-2020 18:00,04-05-2020 23:13,ssmathistad
+ChicoState/BSafe,0,1,"As a pedestrian, I want to be able to navigate the app easily, so that it’s clear where my options are in situations of distress.",Done,ssmathistad,Medium,18-02-2020 17:51,21-04-2020 20:37,ssmathistad
+ChicoState/BSafe,0,4,"As a friend, I want to be sure my other friends have a discrete means of contacting me so that they can message me when they’re in danger.",In progress,"BBBrando,lthornton1",None,18-02-2020 18:00,None,None
+ChicoState/BSafe,0,6,As a student I want to be able to know my current location when I walk home from class,In progress,"ssmathistad,callison98",None,02-03-2020 17:49,None,None
+ChicoState/BSafe,0,4,"As a friend, I want to be sure my other friends have a discrete means of contacting me so that they can message me when they’re in danger.",To do,"BBBrando,lthornton1",None,18-02-2020 18:00,None,None
+ChicoState/BSafe,0,1,"As a pedestrian, I want to be able to navigate the app easily, so that it’s clear where my options are in situations of distress.",To do,ssmathistad,Medium,18-02-2020 17:51,None,None
+ChicoState/BSafe,0,1,"As a pedestrian, I want to be able to navigate the app easily, so that it’s clear where my options are in situations of distress.",In progress,ssmathistad,Medium,18-02-2020 17:51,None,None
+ChicoState/BSafe,0,1,"As a pedestrian, I want to be able to navigate the app easily, so that it’s clear where my options are in situations of distress.",To do,ssmathistad,Medium,18-02-2020 17:51,None,None
+ChicoState/BSafe,0,1,"As a pedestrian, I want to be able to navigate the app easily, so that it’s clear where my options are in situations of distress.",To do,ssmathistad,Medium,18-02-2020 17:51,None,None
+ChicoState/DietFit,0,7,As a user i would like a meal plan and workout plan to be generated for me,Done,None,18-02-2020 19:23,18-02-2020 19:34,mastenl,None
+ChicoState/DietFit,0,6,As a user I would like to pick my type of diet and get a list of recipes that would be good to eat,Done,None,18-02-2020 19:15,18-02-2020 19:35,mastenl,Vote
+ChicoState/DietFit,0,3,"As a user, I would like to track my calories",Done,None,18-02-2020 18:38,18-02-2020 19:37,mastenl,None
+ChicoState/DietFit,0,2,As a user I'd like somewhere to store pictures of my food,To do,connor-richards,18-02-2020 13:11,None,None,vote
+ChicoState/DietFit,0,8,"As a user i would like to be able to input my Information(Diet, weight, height, gender)",To do,"connor-richards,Omnibyte27",18-02-2020 19:31,None,None,vote
+ChicoState/DietFit,0,7,As a user i would like a meal plan and workout plan to be generated for me,To do,None,18-02-2020 19:23,None,None,None
+ChicoState/DietFit,0,7,As a user i would like a meal plan and workout plan to be generated for me,To do,None,18-02-2020 19:23,None,None,None
+ChicoState/DietFit,0,2,As a user I'd like somewhere to store pictures of my food,To do,connor-richards,18-02-2020 13:11,None,None,vote
+ChicoState/DiscountAlcohol,0,19,"As a common user interacting with the app, I want to have a unique and catchy launcher icon inorder for me to distinguish this app from the others ",Done,AustinPope,None,11-04-2020 11:24,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,14,"As a user, I want to see a centralized theme that is easy to distinguish different parts of the app, in order to ease usibility and functionality",Done,"cpwilsonChico,arvoytan",None,25-03-2020 12:20,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,13,"as a consumer of mixed drinks, I would like to know the price of everything i need at a single store.",Done,"askudlarek,cpwilsonChico,AustinPope",None,25-03-2020 12:18,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,8,"As a mixologist, I want to find the cheapest places to buy particular drinks in order to make cheap cocktails.",Done,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,7,"As a college student, I want to be able to search for particular types of alcohol in order to find specific drinks near me.",Done,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,6,"As a college student, I want to see nearby alcohol stores on the map in order to see what stores are closest to me.",Done,"askudlarek,AustinPope",None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,5,User Story: As a college student i want the fastest route to get to the store,Done,askudlarek,None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,4,"User story: As business owner, I want to be able to pay to feature (advertise) my store on the app.",Done,"cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,3,"User story: As a business owner, I want to be able to advertise deals on alcohol.",Done,"cpwilsonChico,arvoytan",None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,2,"As a college student on a budget, I want to find the cheapest prices for alcohol in my area in order to save money but have fun.",Done,None,None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,1,"As a user, I want to have a useable homepage to get me started when I am inebriated to get alcohol fast",Done,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:04,10-05-2020 18:02,askudlarek
+ChicoState/DiscountAlcohol,0,14,"As a user, I want to see a centralized theme that is easy to distinguish different parts of the app, in order to ease usibility and functionality",In progress,"cpwilsonChico,arvoytan",None,25-03-2020 12:20,None,None
+ChicoState/DiscountAlcohol,0,2,"As a college student on a budget, I want to find the cheapest prices for alcohol in my area in order to save money but have fun.",To do,None,None,18-02-2020 21:04,None,None
+ChicoState/DiscountAlcohol,0,6,"As a college student, I want to see nearby alcohol stores on the map in order to see what stores are closest to me.",To do,"askudlarek,AustinPope",None,18-02-2020 21:04,None,None
+ChicoState/DiscountAlcohol,0,3,"User story: As a business owner, I want to be able to advertise deals on alcohol.",In progress,"cpwilsonChico,arvoytan",None,18-02-2020 21:04,None,None
+ChicoState/DiscountAlcohol,0,7,"As a college student, I want to be able to search for particular types of alcohol in order to find specific drinks near me.",In progress,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,None,None
+ChicoState/DiscountAlcohol,0,8,"As a mixologist, I want to find the cheapest places to buy particular drinks in order to make cheap cocktails.",In progress,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,None,None
+ChicoState/DiscountAlcohol,0,7,"As a college student, I want to be able to search for particular types of alcohol in order to find specific drinks near me.",To do,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,None,None
+ChicoState/DiscountAlcohol,0,8,"As a mixologist, I want to find the cheapest places to buy particular drinks in order to make cheap cocktails.",To do,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:05,None,None
+ChicoState/DiscountAlcohol,0,1,"As a user, I want to have a useable homepage to get me started when I am inebriated to get alcohol fast",To do,"askudlarek,cpwilsonChico,AustinPope,arvoytan",None,18-02-2020 21:04,None,None
+ChicoState/FamNet,0,23,"11.a) User Story : As a google user, I want to be able to sign in with my Google Account.",Done,None,Difficulty Level 2,25-03-2020 15:51,10-05-2020 13:14,ballen2024
+ChicoState/FamNet,0,11,"User Story : As a google user, I want to be able to sign in with my Google Account and share my google services with my family.",Done,"grifsf,jdmacam,ballen2024,capktkirk",Difficulty Level 3,18-02-2020 19:40,25-03-2020 15:53,capktkirk
+ChicoState/FamNet,0,10,"User Story : As a Zoomer, I want to have a dark mode so that I don't get blinded while reading in bed at night.",Done,ballen2024,Difficulty Level 1,18-02-2020 19:31,25-03-2020 18:30,ballen2024
+ChicoState/LiquorMeTimbers,0,21,As a user I would like to see available drinks at the bars,Done,ekiesow,None,25-03-2020 17:53,09-05-2020 20:52,ekiesow
+ChicoState/LiquorMeTimbers,0,19,As a customer I would like to be able to use the app without an account.,Done,bradlefler,None,25-03-2020 17:50,11-04-2020 12:24,ekiesow
+ChicoState/LiquorMeTimbers,0,17,As a customer I would like to know the times and days each of the bars are open till,Done,ekiesow,None,04-03-2020 11:42,26-03-2020 18:05,ekiesow
+ChicoState/LiquorMeTimbers,0,13,As a user I would like to ensure only I can sign up with my email address,Done,bradlefler,None,18-02-2020 21:22,25-03-2020 17:46,bradlefler
+ChicoState/LiquorMeTimbers,0,11,As a user I would like to have an account,Done,bradlefler,None,18-02-2020 21:11,25-03-2020 17:44,bradlefler
+ChicoState/LiquorMeTimbers,0,10,As a user I would like to be welcomed by a homepage,Done,"sroes,bradlefler",None,18-02-2020 21:10,26-04-2020 10:37,ekiesow
+ChicoState/LiquorMeTimbers,0,9,As a business owner I would like to have a page/profile for people to visit,Done,None,None,18-02-2020 21:05,18-02-2020 21:07,sroes
+ChicoState/LiquorMeTimbers,0,2,"As a user, I would like a bar's information easy to access",Done,"ekiesow,sroes",None,18-02-2020 20:47,25-03-2020 17:36,ekiesow
+ChicoState/LiquorMeTimbers,0,10,As a user I would like to be welcomed by a homepage,To do,"sroes,bradlefler",None,18-02-2020 21:10,None,None
+ChicoState/LiquorMeTimbers,0,8,"As a user, I would like to see the closest bars to Chico",To do,None,None,18-02-2020 20:59,None,None
+ChicoState/LiquorMeTimbers,0,2,"As a user, I would like a bar's information easy to access",To do,"ekiesow,sroes",None,18-02-2020 20:47,None,None
+ChicoState/LiquorMeTimbers,0,1,"As a college student, I would like to see the closest bars near me.",To do,None,None,18-02-2020 20:46,None,None
+ChicoState/MusicHack,0,11,"As a music lover, I want to be able to see a list of recommended songs.",Done,Fun1hero,Difficulty,08-03-2020 19:09,09-03-2020 12:24,dtaylor46
+ChicoState/ODIT,0,58,Username and Email HAVE to be changed in order to update profile.,Done,VioletInferno,27-04-2020 22:28,28-04-2020 22:28,VioletInferno,None
+ChicoState/ODIT,0,56,"If a user tries to edit their username to an existing username in our db, an error is thrown and the application crashes.",Done,VioletInferno,26-04-2020 20:08,27-04-2020 13:38,VioletInferno,Something isn't working
+ChicoState/ODIT,0,49,'Clear' button on search pages doesn't work.,Done,lcnorine,20-04-2020 21:43,21-04-2020 17:38,VioletInferno,Something isn't working
+ChicoState/ODIT,0,46,"Exception is being thrown on ""ViewIssues"" page when searching by keyword.",Done,VioletInferno,15-04-2020 14:08,18-04-2020 15:05,lcnorine,None
+ChicoState/ODIT,0,44,As a user who likes being able to look at my current and past issues I would like a place to look at them all,Done,Asterisk007,13-04-2020 13:25,26-04-2020 16:19,Asterisk007,New feature or request
+ChicoState/ODIT,0,43,"As a new user, I would like to see the password requirements on the sign up page.",Done,Asterisk007,13-04-2020 13:24,26-04-2020 16:11,CodeMastr3,Very Easy (under 2 hours)
+ChicoState/ODIT,0,42,"As a user, I want to be able to edit my request.",Done,"Asterisk007,VioletInferno",12-04-2020 13:36,28-04-2020 22:28,VioletInferno,Easy (2-3 hours)
+ChicoState/ODIT,0,41,"As a technician, I want to be able to resolve a request once my work is done as well as give a resolution note so the customer and other technicians will know how I solved the problem.",Done,VioletInferno,12-04-2020 11:19,28-04-2020 22:28,VioletInferno,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,40,"As a technician, I want to be able to view each specific request that is assigned to me.",Done,lcnorine,12-04-2020 11:11,19-04-2020 22:00,VioletInferno,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,28,"As a nontech person, I would like a picture/diagram to guide me through the submit process, including what to submit and how",Done,Asterisk007,09-03-2020 13:19,06-04-2020 12:29,Asterisk007,New feature or request
+ChicoState/ODIT,0,26,Bug was introduced in previous commit. Issues are not properly being saved into the database.,Done,"VioletInferno,lcnorine",09-03-2020 11:00,09-03-2020 12:14,lcnorine,None
+ChicoState/ODIT,0,24,"As a mobile user, I want the website to fit nicely on my small screen.",Done,Asterisk007,08-03-2020 17:56,06-04-2020 12:29,Asterisk007,Very Easy (under 2 hours)
+ChicoState/ODIT,0,23,"As a visitor to the website, I want to see pretty, enticing, visuals on the main page.",Done,Asterisk007,08-03-2020 17:54,19-03-2020 19:50,Asterisk007,Moderately Easy (3-5 hours)
+ChicoState/ODIT,0,22,"As an immensely cool individual, I wish to use darkmode when I visit this website.",Done,Asterisk007,08-03-2020 17:39,19-03-2020 19:51,Asterisk007,Very Easy (under 2 hours)
+ChicoState/ODIT,0,18,"As a user who needs a technician to fix something in person, I want to find a technician in my local area.",Done,VioletInferno,05-03-2020 09:59,27-04-2020 12:21,lcnorine,Average Difficulty (7-10 hours)
+ChicoState/ODIT,0,17,"As a technician, I want to view service requests.",Done,VioletInferno,04-03-2020 13:46,04-03-2020 13:50,lcnorine,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,16,"As a user, I want to submit a service request.",Done,VioletInferno,04-03-2020 13:44,04-03-2020 13:50,lcnorine,Easier than Average (5-7 hours)
+ChicoState/ODIT,0,15,"As a potential user, I want to see what ODIT does.",Done,Asterisk007,04-03-2020 13:43,04-03-2020 13:50,lcnorine,Easy (2-3 hours)
+ChicoState/ODIT,0,14,Repeat code in views.py,Done,lcnorine,04-03-2020 13:32,08-03-2020 23:11,lcnorine,Very Easy (under 2 hours)
+ChicoState/ODIT,0,13,nav.html is unused,Done,lcnorine,04-03-2020 13:08,08-03-2020 23:11,lcnorine,Very Easy (under 2 hours)
+ChicoState/ODIT,0,8,"As an ODIT technician, I want to sign in to my account when I visit the website.",Done,"CodeMastr3,VioletInferno,lcnorine",18-02-2020 18:05,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,7,"As a technician, I want to accept service requests.",Done,lcnorine,18-02-2020 18:02,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,6,"As a user, I want to rate the quality of service for my last ODIT technician.",Done,"Asterisk007,lcnorine",18-02-2020 17:58,28-04-2020 00:45,VioletInferno,New feature or request
+ChicoState/ODIT,0,3,"As a registered ODIT technician, I want to be able to change/edit my area of expertise.",Done,lcnorine,18-02-2020 17:53,21-04-2020 17:38,VioletInferno,New feature or request
+ChicoState/ODIT,0,2,"As a technician, I want to search for requests in the area of my specific experience.",Done,lcnorine,18-02-2020 17:52,23-03-2020 10:34,lcnorine,New feature or request
+ChicoState/ODIT,0,1,"As someone with IT skills, I want to sign up as an ODIT technician.",Done,"VioletInferno,lcnorine",18-02-2020 17:49,12-04-2020 10:22,VioletInferno,New feature or request
+ChicoState/ODIT,0,2,"As a technician, I want to search for requests in the area of my specific experience.",To Do,lcnorine,18-02-2020 17:52,None,None,New feature or request
+ChicoState/ODIT,0,1,"As someone with IT skills, I want to sign up as an ODIT technician.",To Do,"VioletInferno,lcnorine",18-02-2020 17:49,None,None,New feature or request
+ChicoState/ODIT,0,8,"As an ODIT technician, I want to sign in to my account when I visit the website.",To Do,"CodeMastr3,VioletInferno,lcnorine",18-02-2020 18:05,None,None,New feature or request
+ChicoState/ParkCore,0,19,See a list of parking spaces.,Done,ihernandez4466,None,04-03-2020 12:31,04-03-2020 12:37,ihernandez4466
+ChicoState/ParkCore,0,16,"As a user, I want to see a map.",Done,shelleywong,None,24-02-2020 13:13,06-03-2020 13:28,jcheon
+ChicoState/ParkCore,0,13,"As a user, I want to be able to easily navigate the app.",Done,shelleywong,None,21-02-2020 16:20,29-02-2020 19:18,jcheon
+ChicoState/ParkCore,0,12,"As an average user, I want the options to filter available parking spaces by price, size, type of parking space, and amenities",Done,shelleywong,None,21-02-2020 16:06,26-04-2020 17:58,ihernandez4466
+ChicoState/ParkCore,0,8,"As a lot finder, I want the option to search by location (city, address)",Done,shelleywong,None,21-02-2020 16:06,14-04-2020 23:15,ihernandez4466
+ChicoState/ParkCore,0,7,"As a lot owner, I want to post my parking lot for people to rent.",Done,shelleywong,None,21-02-2020 16:06,05-04-2020 13:17,ihernandez4466
+ChicoState/ParkCore,0,2,"As a user, I want to make sure my data is stored.",Done,jcheon,None,21-02-2020 16:05,25-02-2020 23:14,shelleywong
+ChicoState/ParkCore,0,2,"As a user, I want to make sure my data is stored.",In progress,jcheon,None,21-02-2020 16:05,None,None
+ChicoState/ParkCore,0,13,"As a user, I want to be able to easily navigate the app.",In progress,shelleywong,None,21-02-2020 16:20,None,None
+
+ChicoState/SmartCCTV,0,24,"As a power user, I want to be able to configure the detection settings, as well as enable and disable outlines to be drawn, preferably a live update feature to apply the changes settings in real time. 5 6 6 [27]",Done,"Krebrov001,SlavikChukhlebov,weitaoli123",03-05-2020 10:22,18-05-2020 18:32,Krebrov001,None
+ChicoState/SmartCCTV,0,22,"As someone concerned about real-time security, I want  to be able to view current camera feeds. 5 7 5 [34]",Done,"Krebrov001,SlavikChukhlebov,weitaoli123",11-04-2020 14:33,18-05-2020 18:31,Krebrov001,None
+ChicoState/SmartCCTV,0,20,"As a computer user, I don't want to keep my terminal window open while running a program in the background. 5 7 8 [21]",Done,Krebrov001,25-03-2020 16:36,30-03-2020 20:45,Krebrov001,None
+ChicoState/SmartCCTV,0,19,"As a restaurant manager, I want my CCTV footage to give me statistics of rush hours. 3 7 10 [13]",Done,Jaskaal,25-03-2020 16:36,30-03-2020 13:35,Jaskaal,None
+ChicoState/SmartCCTV,0,18,"As a business owner, I'd like to see a graphical representation of the data the camera retrieves 4 7 10 [15]",Done,Jaskaal,25-03-2020 16:36,30-03-2020 13:36,Jaskaal,None
+ChicoState/SmartCCTV,0,17,"As a computer user, I want to have an easy way to start up and shut down the daemon (turn the camera software on and off). 5 6 8 [20]",Done,"Krebrov001,weitaoli123",25-03-2020 16:36,25-04-2020 16:14,Krebrov001,None
+ChicoState/SmartCCTV,0,16,"As a security officer, I only want to see video where someone is present and moving around, not other footage. 5 6 6 [26]",Done,"SlavikChukhlebov,weitaoli123",25-03-2020 16:36,04-05-2020 14:33,SlavikChukhlebov,None
+ChicoState/SmartCCTV,0,15,"As an individual concerned with personal security, I want images to be recognized locally, not over the network, because hackers could spy on me. 5 7 1 [50]",Done,"Krebrov001,SlavikChukhlebov,weitaoli123,Jaskaal",25-03-2020 16:35,04-05-2020 14:34,SlavikChukhlebov,None
+ChicoState/SmartCCTV,0,14,"As someone with very little computer knowledge, I want a simple UI. 5 7 4 [42]",Done,"weitaoli123,Jaskaal",25-03-2020 16:35,25-04-2020 16:12,Krebrov001,None
+ChicoState/SmartCCTV,0,9,Create a logging system. [5],To do,Krebrov001,19-02-2020 13:44,None,None,None
+ChicoState/SmartCCTV,0,9,Create a logging system. [5],In progress,Krebrov001,19-02-2020 13:44,None,None,None
+ChicoState/SmartCCTV,0,8,Detach SmartCCTV from the command line interface. [0],In progress,Krebrov001,19-02-2020 13:35,None,None,None
+ChicoState/SmartCCTV,0,7,Install OpenCV on personal development platforms [0],In progress,"Krebrov001,SlavikChukhlebov,weitaoli123",19-02-2020 13:19,None,None,Good for newcomers
+ChicoState/SmartCCTV,0,4,Add motion detection filter to SmartCCTV Daemon. [15],In progress,None,19-02-2020 11:15,None,None,None
+ChicoState/SmartCCTV,0,6,Create UI program to view SmartCCTV output. [25],To do,"weitaoli123,Jaskaal",19-02-2020 11:16,None,None,None
+ChicoState/SmartCCTV,0,5,Add human recognition filter to SmartCCTV Daemon. [25],To do,None,19-02-2020 11:15,None,None,None
+ChicoState/SmartCCTV,0,4,Add motion detection filter to SmartCCTV Daemon. [15],To do,None,19-02-2020 11:15,None,None,None
+ChicoState/SmartCCTV,0,3,Create Listener Daemon [10],To do,Krebrov001,19-02-2020 11:14,None,None,None
+ChicoState/SmartCCTV,0,2,Install OpenCV on a control device. [10],In progress,Krebrov001,19-02-2020 11:14,None,None,None
+ChicoState/SmartCCTV,0,1,Create the I/O of the SmartCCTV Daemon. [15],In progress,SlavikChukhlebov,19-02-2020 11:12,None,None,None
+ChicoState/StudyGroup,0,59,"As a user, I want to be able to save a username in order to display my username to other users instead of my real name",Done,bmarden,Medium level of difficulty.,10-05-2020 19:55,10-05-2020 22:26,bmarden
+ChicoState/StudyGroup,0,48,"As a user, I want a consistent color theme throughout the app, in order to make the app more aesthetically appealing",Done,lrondenet,None,15-04-2020 12:53,07-05-2020 18:21,bmarden
+ChicoState/StudyGroup,0,47,"As a user, I want to be able to communicate with any of the groups I am in through a messaging interface.",Done,"e7ite,bmarden",Medium level of difficulty.,15-04-2020 12:29,02-05-2020 20:27,e7ite
+ChicoState/StudyGroup,0,46,"As a user, I want access to a bottom navigation bar, in order to quickly navigate between the different views in the app.",Done,"asheelamagwili,bmarden",Medium level of difficulty.,15-04-2020 11:54,23-04-2020 19:18,bmarden
+ChicoState/StudyGroup,0,38,As a user I want to be able to view the details of my current groups,Done,"e7ite,asheelamagwili,lrondenet",Medium level of difficulty.,25-03-2020 12:50,12-04-2020 23:40,bmarden
+ChicoState/StudyGroup,0,37,"As a user, I want to be to create my own group that other users can join in order to set my own specifications.",Done,"bmarden,lrondenet",High level of difficulty.,25-03-2020 12:47,23-04-2020 19:18,bmarden
+ChicoState/StudyGroup,0,36,"As a user, I want to be able to search for and join a study group.",Done,bmarden,Medium level of difficulty.,25-03-2020 12:43,07-05-2020 18:22,bmarden
+ChicoState/StudyGroup,0,25,"As a student, I want to know when there is activity that I missed within the study groups I am apart of.",Done,None,None,06-03-2020 16:25,06-03-2020 16:25,e7ite
+ChicoState/StudyGroup,0,24,"As a student, I want a simple way to see the details of the group I am in without having to change screens",Done,"e7ite,bmarden",Medium level of difficulty.,06-03-2020 16:16,25-03-2020 12:40,bmarden
+ChicoState/StudyGroup,0,11,As a user I want a clean looking home page in order to quickly get an overview of my current groups.,Done,"e7ite,bmarden",Easy feature to implement,18-02-2020 18:54,10-05-2020 22:32,bmarden
+ChicoState/StudyGroup,0,10,"As a student, I want a profile page to change my username & password.",Done,asheelamagwili,Medium level of difficulty.,18-02-2020 18:54,10-05-2020 19:01,asheelamagwili
+ChicoState/StudyGroup,0,9,"As a student, I want to input my classes so that I can track what I am taking for the semester/quarter.",Done,"asheelamagwili,bmarden,lrondenet",High level of difficulty.,18-02-2020 18:53,10-05-2020 22:26,bmarden
+ChicoState/StudyGroup,0,8,As a user I want to be able to save my current classes in order to save me time when searching for a new study group.,Done,bmarden,High level of difficulty.,18-02-2020 18:53,10-05-2020 22:28,bmarden
+ChicoState/StudyGroup,0,6,"As a student, I want to filter my study group based on group size so that I can study in a setting that is comfortable for me.",Done,bmarden,Easy feature to implement,18-02-2020 18:52,07-05-2020 18:25,bmarden
+ChicoState/StudyGroup,0,5,"As a student user, I want to see a quick list of my groups so that I can see an overview of my current study groups.",Done,"e7ite,bmarden",Medium level of difficulty.,18-02-2020 18:51,09-03-2020 19:17,bmarden
+ChicoState/StudyGroup,0,4,As a student user I want a clean user login page that can remember my previous logins to make using the app easier.,Done,bmarden,High level of difficulty.,18-02-2020 18:37,22-03-2020 19:23,bmarden
+ChicoState/StudyGroup,0,3,"As a student user, I want to have a quick and easy account sign-in so it’s less work.",Done,bmarden,Medium level of difficulty.,18-02-2020 18:37,22-03-2020 19:24,bmarden
+ChicoState/StudyGroup,0,2,"As a user, I want to be able to have a register page so I can have a profile account that will display my information.",Done,"bmarden,lrondenet",Easy feature to implement,18-02-2020 18:32,23-04-2020 19:19,bmarden
+ChicoState/SustainabilityPoints,0,24,App not responding gracefully  when the keyboard pops up,Done,adhaar-star,30-03-2020 12:38,31-03-2020 22:27,adhaar-star,None
+ChicoState/SustainabilityPoints,0,23,Auto Capitalization of Words,Done,adhaar-star,28-03-2020 23:47,28-03-2020 23:47,adhaar-star,None
+ChicoState/SustainabilityPoints,0,8,as a user i would like to be able to easily navigate between screens [4],Done,avargas34,27-03-2020 12:44,30-03-2020 13:37,avargas34,None
+ChicoState/SustainabilityPoints,0,7,as a user i would like to view my profile [1],Done,avargas34,27-03-2020 12:44,30-03-2020 13:37,avargas34,None
+ChicoState/SustainabilityPoints,0,6,as a user i would like to be able to recover my account if i forget my login information [4],Done,adhaar-star,27-03-2020 12:44,31-03-2020 20:35,adhaar-star,None
+ChicoState/SustainabilityPoints,0,5,as an admin i would like validate username/password [3] - destiny,Done,drogers14,06-03-2020 12:21,27-03-2020 15:47,drogers14,None
+ChicoState/SustainabilityPoints,0,4,as a developer i need a database to track user information [4]- michael,Done,mjlarson-chico,06-03-2020 12:21,01-04-2020 16:04,mjlarson-chico,None
+ChicoState/SustainabilityPoints,0,3,As a user i would like to create an account [2] - adhaar,Done,adhaar-star,06-03-2020 12:21,01-04-2020 16:04,mjlarson-chico,None
+ChicoState/SustainabilityPoints,0,2,as a user i would like to sign in [3] - anthony,Done,avargas34,06-03-2020 12:20,01-04-2020 16:04,mjlarson-chico,None
+ChicoState/SustainabilityPoints,0,1,Logo icon,Done,None,24-02-2020 13:01,02-03-2020 12:11,drogers14,None
+ChicoState/SustainabilityPoints,0,13,as a user i would like to earn achievements [5],To Do,avargas34,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,12,As a software developer i would like to integrate the Google Maps Api to track the distance of the User while walking [10],To Do,adhaar-star,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,11,as a user i would like to see a map of participating businesses [7],To Do,adhaar-star,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,10,as a user i would like to track my distance [7],To Do,adhaar-star,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,9,as a user i would like to receive daily notifications for sustainable acts [7],To Do,drogers14,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,8,as a user i would like to be able to easily navigate between screens [4],In Progress,avargas34,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,7,as a user i would like to view my profile [1],In Progress,avargas34,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,6,as a user i would like to be able to recover my account if i forget my login information [4],In Progress,adhaar-star,27-03-2020 12:44,None,None,None
+ChicoState/SustainabilityPoints,0,5,as an admin i would like validate username/password [3] - destiny,In Progress,drogers14,06-03-2020 12:21,None,None,None
+ChicoState/SustainabilityPoints,0,4,as a developer i need a database to track user information [4]- michael,In Progress,mjlarson-chico,06-03-2020 12:21,None,None,None
+ChicoState/SustainabilityPoints,0,3,As a user i would like to create an account [2] - adhaar,In Progress,adhaar-star,06-03-2020 12:21,None,None,None
+ChicoState/SustainabilityPoints,0,2,as a user i would like to sign in [3] - anthony,In Progress,avargas34,06-03-2020 12:20,None,None,None
+
+ChicoState/Apetur,0,3,As a user I want to create an account,Done,None,16-09-2019 15:38,18-09-2019 15:15,michaelwooll,None
+ChicoState/Apetur,0,2,"As an advertiser, I want to target certain demographics with my advertisement.",Done,None,16-09-2019 11:47,16-09-2019 15:21,michaelwooll,None
+ChicoState/Apetur,0,1,"As a Newbie, I want to find accounts to follow.",Done,None,16-09-2019 11:47,16-09-2019 15:21,michaelwooll,None
+ChicoState/Apetur,0,15,As a user I want to be able to view a photographers profile.,In progress,"yyang31,NathanLovell",05-10-2019 17:33,None,None,None
+ChicoState/Apetur,0,15,As a user I want to be able to view a photographers profile.,To do,"yyang31,NathanLovell",05-10-2019 17:33,None,None,None
+ChicoState/Apetur,0,8,As a user I want to be able to find photographers in near by city,In progress,michaelwooll,18-09-2019 15:19,None,None,None
+ChicoState/Apetur,0,8,As a user I want to be able to find photographers in near by city,To do,michaelwooll,18-09-2019 15:19,None,None,None
+ChicoState/Apetur,0,6,"As a user, I want to be able to navigate through the site with a navbar",In progress,yyang31,18-09-2019 15:16,None,None,None
+ChicoState/Apetur,0,4,As a user I want to be able to login,In progress,"yyang31,recursory",16-09-2019 15:38,None,None,None
+ChicoState/Apetur,0,10,"As a person with a wedding coming up soon, I want to be able to view local photographers.",In progress,michaelwooll,18-09-2019 15:19,None,None,None
+ChicoState/Apetur,0,6,"As a user, I want to be able to navigate through the site with a navbar",To do,yyang31,18-09-2019 15:16,None,None,None
+ChicoState/Apetur,0,4,As a user I want to be able to login,To do,"yyang31,recursory",16-09-2019 15:38,None,None,None
+ChicoState/Apetur,0,4,As a user I want to be able to login,In progress,"yyang31,recursory",16-09-2019 15:38,None,None,None
+ChicoState/Apetur,0,6,"As a user, I want to be able to navigate through the site with a navbar",In progress,yyang31,18-09-2019 15:16,None,None,None
+ChicoState/Apetur,0,10,"As a person with a wedding coming up soon, I want to be able to view local photographers.",To do,michaelwooll,18-09-2019 15:19,None,None,None
+ChicoState/Apetur,0,4,As a user I want to be able to login,To do,"yyang31,recursory",16-09-2019 15:38,None,None,None
+ChicoState/Apetur,0,6,"As a user, I want to be able to navigate through the site with a navbar",To do,yyang31,18-09-2019 15:16,None,None,None
+ChicoState/Apetur,0,10,"As a person with a wedding coming up soon, I want to be able to view local photographers.",To do,michaelwooll,18-09-2019 15:19,None,None,None
+ChicoState/Apetur,0,4,As a user I want to be able to login,To do,"yyang31,recursory",16-09-2019 15:38,None,None,None
+ChicoState/Apetur,0,1,"As a Newbie, I want to find accounts to follow.",To do,None,16-09-2019 11:47,None,None,None
+ChicoState/CareMap,0,48,As a parent I would like to find the childcare that will work with my situation,Done,"JennGriff,gher3",None,02-12-2019 15:00,15-12-2019 19:19,JennGriff
+ChicoState/CareMap,0,41,As a parent I want an app that I can navigate quickly,Done,"JennGriff,gher3",None,11-11-2019 07:32,09-12-2019 13:51,jordan373
+ChicoState/CareMap,0,39,As a new parent I would like to be able to query the suggested child care options without restriction,Done,JennGriff,None,03-11-2019 09:36,15-12-2019 19:19,JennGriff
+ChicoState/CareMap,0,36,"As a user, I would like to have an app that can access my location at all times.",Done,jozzel,None,30-10-2019 13:20,15-12-2019 19:18,JennGriff
+ChicoState/CareMap,0,30,"As a User, I would like to view a childcare app that is friendly and inviting at first glance",Done,"jordan373,JennGriff,adbruch",None,20-10-2019 12:48,15-12-2019 19:19,JennGriff
+ChicoState/CareMap,0,27,As a user I would like to use the app without the hassle of 'creating an account',Done,"jordan373,JennGriff,gher3",None,05-10-2019 21:56,09-12-2019 13:51,jordan373
+ChicoState/CareMap,0,22,As a parent I would like to rate and review childcare facilities and search based on overall rating.,Done,adbruch,None,20-09-2019 13:16,15-12-2019 19:19,JennGriff
+ChicoState/CareMap,0,18,"As a daycare facility, I would like to have my business info accessible to the masses",Done,JennGriff,None,20-09-2019 12:54,15-12-2019 19:20,JennGriff
+ChicoState/CareMap,0,12,"As a user, I would like to view all childcare facilities available in my area, to determine which is best for me.",Done,JennGriff,None,16-09-2019 16:17,15-12-2019 19:20,JennGriff
+ChicoState/CareMap,0,9,As a new parent I want to understand my options for child care,Done,"JennGriff,adbruch",None,16-09-2019 16:15,15-12-2019 19:20,JennGriff
+ChicoState/CareMap,0,12,"As a user, I would like to view all childcare facilities available in my area, to determine which is best for me.",In progress,JennGriff,None,16-09-2019 16:17,None,None
+ChicoState/CareMap,0,22,As a parent I would like to rate and review childcare facilities and search based on overall rating.,In progress,adbruch,None,20-09-2019 13:16,None,None
+ChicoState/CareMap,0,9,As a new parent I want to understand my options for child care,In progress,"JennGriff,adbruch",None,16-09-2019 16:15,None,None
+ChicoState/CareMap,0,19,As a parent I want a portal to see information on businesses,To do,JennGriff,None,20-09-2019 13:03,None,None
+ChicoState/CareMap,0,12,"As a user, I would like to view all childcare facilities available in my area, to determine which is best for me.",To do,JennGriff,None,16-09-2019 16:17,None,None
+ChicoState/CareMap,0,22,As a parent I would like to rate and review childcare facilities and search based on overall rating.,To do,adbruch,None,20-09-2019 13:16,None,None
+ChicoState/CareMap,0,9,As a new parent I want to understand my options for child care,To do,"JennGriff,adbruch",None,16-09-2019 16:15,None,None
+ChicoState/CareMap,0,11,As a parent new to the area I want to find childcare that's supported by positive reviews,In progress,adbruch,None,16-09-2019 16:16,None,None
+ChicoState/Custom,0,1,"Example: ""As an Advertiser, I want to target certain demographics with my Advertisements""",To do,Empyreus,None,16-09-2019 11:47,None,None
+ChicoState/Dankbank,0,19,"As a user, I want to be able to switch between the home page, and my account page.",Done,bolson10,None,30-10-2019 12:36,13-11-2019 14:04,bolson10
+ChicoState/Dankbank,0,18,"As a user, I want to create an account",Done,bolson10,None,17-10-2019 16:21,13-11-2019 14:04,bolson10
+ChicoState/Dankbank,0,15,"As a user, I want every possible source for memes in the database.",Done,bolson10,None,30-09-2019 12:38,13-11-2019 14:04,bolson10
+ChicoState/Dankbank,0,14,"As a user, I want fresh mey-meys in the collection.",Done,"s-b-m,bolson10",None,30-09-2019 12:30,13-11-2019 14:03,bolson10
+ChicoState/Dankbank,0,8,"As a user, I want popular memes in the collection",Done,bolson10,None,18-09-2019 14:11,13-11-2019 14:04,bolson10
+ChicoState/Dankbank,0,7,"As a user, I want to have a collection of memes to search from",Done,bolson10,None,18-09-2019 14:10,13-11-2019 14:03,bolson10
+ChicoState/Dankbank,0,6,"As a user, I want to be able to store/favorite all my favorite memes.",Done,"Bretay,theSaltman",None,16-09-2019 12:44,04-12-2019 11:59,Bretay
+ChicoState/Dankbank,0,2,"As a user, I want to download the app",Done,"Bretay,s-b-m,bolson10,theSaltman",None,16-09-2019 12:43,14-10-2019 11:54,Bretay
+ChicoState/Dankbank,0,1,"As a user, I want to see a list of memes",Done,"Bretay,theSaltman",None,16-09-2019 12:43,14-10-2019 11:54,Bretay
+ChicoState/Dankbank,0,8,"As a user, I want popular memes in the collection",To do,bolson10,None,18-09-2019 14:11,None,None
+ChicoState/Dankbank,0,7,"As a user, I want to have a collection of memes to search from",To do,bolson10,None,18-09-2019 14:10,None,None
+ChicoState/Dankbank,0,1,"As a user, I want to see a list of memes",To do,"Bretay,theSaltman",None,16-09-2019 12:43,None,None
+ChicoState/Dankbank,0,3,"As a user, I want to search for a meme",To do,theSaltman,None,16-09-2019 12:43,None,None
+ChicoState/DonateNeed,0,37,"As a user, I would like to ensure that only I can sign up with my email address.",Done,None,None,03-11-2019 12:51,09-12-2019 14:43,mhoshko
+ChicoState/DonateNeed,0,36,As a user I would like to create agencies.,Done,"Niyy,mhoshko",None,31-10-2019 09:51,17-11-2019 10:19,mhoshko
+ChicoState/DonateNeed,0,35,"As a user, I would like to see current news local to Chico.",Done,Niyy,None,20-10-2019 16:48,08-12-2019 18:39,mhoshko
+ChicoState/DonateNeed,0,34,"As a user, I would like to have a personal account.",Done,mhoshko,None,20-10-2019 16:44,03-11-2019 12:46,mhoshko
+ChicoState/DonateNeed,0,33,Jumbotron broke when bringing down from repl.it,Done,wai-calvin,Something isn't working,06-10-2019 18:28,06-10-2019 18:29,Niyy
+ChicoState/DonateNeed,0,31,"as a user, I would like to be welcomed by a home page",Done,"wai-calvin,mhoshko",None,18-09-2019 17:43,06-10-2019 18:26,Niyy
+ChicoState/DonateNeed,0,25,As a user I would like to navigate the website.,Done,"BrianTHarris,Niyy",None,18-09-2019 17:11,06-10-2019 18:26,Niyy
+ChicoState/DonateNeed,0,23,"As an agency, I would like to have a homepage for donators to come too.",Done,"BrianTHarris,wai-calvin,mhoshko",None,18-09-2019 17:09,08-12-2019 18:38,mhoshko
+ChicoState/DonateNeed,0,20,"As a user, I would like to be able to find locations of agencies for when I'm in need of donations.",Done,None,None,18-09-2019 16:55,09-12-2019 14:44,mhoshko
+ChicoState/DonateNeed,0,12,"As a user, I would like to have a profile page.",Done,"BrianTHarris,wai-calvin,mhoshko",None,16-09-2019 15:40,08-12-2019 18:39,mhoshko
+ChicoState/DonateNeed,0,7,"As a donator, I would like to see agency profile pages.",Done,"BrianTHarris,wai-calvin,mhoshko",None,16-09-2019 15:37,08-12-2019 18:39,mhoshko
+ChicoState/DonateNeed,0,6,"As a user, I want a website to go to.",Done,"BrianTHarris,wai-calvin,Niyy,mhoshko",None,16-09-2019 15:36,30-09-2019 17:26,Niyy
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",Done,wai-calvin,None,16-09-2019 11:48,18-09-2019 11:06,Niyy
+ChicoState/DonateNeed,0,1,"As a Jingle Jangle, I want to find my merry way home.",Done,BrianTHarris,None,16-09-2019 11:47,18-09-2019 11:06,Niyy
+ChicoState/DonateNeed,0,6,"As a user, I want a website to go to.",To do,"BrianTHarris,wai-calvin,Niyy,mhoshko",None,16-09-2019 15:36,None,None
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",In progress,wai-calvin,None,16-09-2019 11:48,None,None
+ChicoState/DonateNeed,0,1,"As a Jingle Jangle, I want to find my merry way home.",To do,BrianTHarris,None,16-09-2019 11:47,None,None
+ChicoState/DonateNeed,0,1,"As a Jingle Jangle, I want to find my merry way home.",To do,BrianTHarris,None,16-09-2019 11:47,None,None
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",In progress,wai-calvin,None,16-09-2019 11:48,None,None
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",To do,wai-calvin,None,16-09-2019 11:48,None,None
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",In progress,wai-calvin,None,16-09-2019 11:48,None,None
+ChicoState/DonateNeed,0,2,"as a student in this class, i wanna get this project done. GO TEAM! :D",In progress,wai-calvin,None,16-09-2019 11:48,None,None
+ChicoState/EasyGrocery,0,33,"As a user, I want to have a checklist for the store that I had selected to shop at.",Done,rodgerskyle,None,25-10-2019 13:36,01-12-2019 17:22,rhathaway2
+ChicoState/EasyGrocery,0,18,"As a user, I want to not have to sign in every time I open the app",Done,"jef-rey,BFisch14",None,11-10-2019 10:21,19-10-2019 22:08,rodgerskyle
+ChicoState/EasyGrocery,0,8,"As a user, I want to have the ability to compare to a wide variety of stores",Done,"bigFOOTbigSMASH,rhathaway2",None,16-09-2019 15:45,08-12-2019 12:04,rhathaway2
+ChicoState/EasyGrocery,0,7,"As a user, I want to have a way to search for and add items to a list",Done,rhathaway2,None,16-09-2019 15:41,08-12-2019 12:04,rhathaway2
+ChicoState/EasyGrocery,0,4,"As a user, have the ability to save a personalized grocery list",Done,"rodgerskyle,rhathaway2",None,16-09-2019 15:35,21-10-2019 19:45,jef-rey
+ChicoState/EasyGrocery,0,3,"As a new user, have the ability to create an account easily",Done,rodgerskyle,None,16-09-2019 15:35,02-10-2019 15:15,BFisch14
+ChicoState/EasyGrocery,0,1,"As a user, I want to have a personalized account",Done,rodgerskyle,None,16-09-2019 15:17,11-10-2019 10:18,rodgerskyle
+ChicoState/HotSpots,0,24,"As a user, I want to be able to get directions to a place near me.",Done,None,None,03-11-2019 21:50,04-12-2019 15:27,austenwood
+ChicoState/HotSpots,0,12,"As a user, I want to be able to add friends.",Done,rlamug,None,04-10-2019 10:47,10-12-2019 18:42,rlamug
+ChicoState/HotSpots,0,8,"As a user, I want to be able to see daily deals for local businesses around me",Done,jsage1,None,26-09-2019 11:59,04-11-2019 15:10,austenwood
+ChicoState/HotSpots,0,6,"As an advertiser, I want my tickets to be available on the app which link to Ticketmaster.",Done,"tonyburanzon,austenwood",None,16-09-2019 15:45,04-12-2019 15:26,austenwood
+ChicoState/HotSpots,0,4,"As a user, I want to be able to search for places around me.",Done,austenwood,None,16-09-2019 15:43,04-12-2019 15:27,austenwood
+ChicoState/HotSpots,0,2,"As a user, I want to be able to see where things are around me on a map.",Done,None,None,16-09-2019 15:12,04-12-2019 15:26,austenwood
+ChicoState/HotSpots,0,1,"As a user, I want to see what there is to do around me.",Done,austenwood,None,16-09-2019 13:56,04-12-2019 15:26,austenwood
+ChicoState/HotSpots,0,7,As a user I want to sign in so that I have some privacy,In progress,rlamug,None,25-09-2019 15:22,None,None
+ChicoState/HotSpots,0,6,"As an advertiser, I want my tickets to be available on the app which link to Ticketmaster.",In progress,"tonyburanzon,austenwood",None,16-09-2019 15:45,None,None
+ChicoState/HotSpots,0,2,"As a user, I want to be able to see where things are around me on a map.",In progress,None,None,16-09-2019 15:12,None,None
+ChicoState/HotSpots,0,8,"As a user, I want to be able to see daily deals for local businesses around me",In progress,jsage1,None,26-09-2019 11:59,None,None
+ChicoState/HotSpots,0,7,As a user I want to sign in so that I have some privacy,To do,rlamug,None,25-09-2019 15:22,None,None
+ChicoState/HotSpots,0,4,"As a user, I want to be able to search for places around me.",In progress,austenwood,None,16-09-2019 15:43,None,None
+ChicoState/HotSpots,0,1,"As a user, I want to see what there is to do around me.",To do,austenwood,None,16-09-2019 13:56,None,None
+ChicoState/HotSpots,0,2,"As a user, I want to be able to see where things are around me on a map.",To do,None,None,16-09-2019 15:12,None,None
+ChicoState/HotSpots,0,4,"As a user, I want to be able to search for places around me.",To do,austenwood,None,16-09-2019 15:43,None,None
+ChicoState/RuMate,0,17,"As a user, I want to be able to filter tasks by my own and my roommates",Done,jautrey,None,06-11-2019 15:14,04-12-2019 15:13,jautrey
+ChicoState/RuMate,0,13,As a user I want to be able to connect with roommates after signing up,Done,david-luther,None,07-10-2019 15:15,08-12-2019 18:17,david-luther
+ChicoState/RuMate,0,12,As a user I want to be able to sign in to the app in order to access my data,Done,"ogauper,HenryGraves",None,18-09-2019 14:59,03-11-2019 16:09,HenryGraves
+ChicoState/RuMate,0,11,"As a roommate, I want to be able to create tasks and have them assigned",Done,david-luther,None,18-09-2019 14:59,08-12-2019 18:17,david-luther
+ChicoState/RuMate,0,10,As a roommate I want to be able to see my task list.,Done,"ogauper,jautrey",None,18-09-2019 14:59,04-12-2019 15:13,jautrey
+ChicoState/RuMate,0,9,As a roommate I want to be able to see my current bills,Done,"david-luther,HenryGraves",None,18-09-2019 14:59,08-12-2019 18:17,david-luther
+ChicoState/RuMate,0,7,"As a user, I want to be able to view my (and my roommates') tasks in a calendar view",Done,jautrey,None,18-09-2019 14:58,04-12-2019 15:13,jautrey
+ChicoState/RuMate,0,6,As a user I want to be able to communicate with my roommates,Done,HenryGraves,None,18-09-2019 14:58,03-11-2019 16:09,HenryGraves
+ChicoState/RuMate,0,5,As a user I want to be notified of tasks and bills.,Done,david-luther,None,18-09-2019 14:58,08-12-2019 18:16,david-luther
+ChicoState/RuMate,0,1,Ahh! an issue!,Done,None,None,16-09-2019 15:07,17-09-2019 20:53,HenryGraves
+ChicoState/RuMate,0,10,As a roommate I want to be able to see my task list.,To do,"ogauper,jautrey",None,18-09-2019 14:59,None,None
+ChicoState/RuMate,0,12,As a user I want to be able to sign in to the app in order to access my data,To do,"ogauper,HenryGraves",None,18-09-2019 14:59,None,None
+ChicoState/RuMate,0,11,"As a roommate, I want to be able to create tasks and have them assigned",To do,david-luther,None,18-09-2019 14:59,None,None
+ChicoState/SafeAlert,0,28,As a user i want my password to be secure/encrypted/hashed,Done,None,None,06-12-2019 18:29,06-12-2019 18:36,jgutierrezCSU
+ChicoState/SafeAlert,0,27,"As a user, I want to see a Buddiies Rating",Done,None,None,04-12-2019 13:49,04-12-2019 13:59,jgutierrezCSU
+ChicoState/SafeAlert,0,25,As a user I want to send a buddii an sms message to alert them of my status,Done,dev-igs,None,21-10-2019 11:49,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,24,As a user I want to be able to go back to edit my choice.,Done,mshimada2,None,20-10-2019 19:02,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,23,"As a user, I want to be able to easily login to the safe alert app to access the app's services.",Done,dev-igs,None,20-10-2019 19:00,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,22,"As a user’s buddy, I want to see the user’s route in order to know if they are safely on their way",Done,mshimada2,None,20-10-2019 18:58,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,21,As a new user I want to see how the SafeAlert app looks like; particularly the home page,Done,barcher13,None,20-10-2019 18:57,06-12-2019 21:07,jgutierrezCSU
+ChicoState/SafeAlert,0,19,"As a user, I want to know how to stop the ""Be a buddii"" option if I need to cancel.",Done,dev-igs,None,20-10-2019 18:51,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,18,"As a user I want to know the sequence of tasks the ""Be a Buddii"" option requires in order for it to start working.",Done,DeWubs,None,20-10-2019 18:50,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,17,as A user i want to make sure the app requires all users to have a STRONG password,Done,jgutierrezCSU,None,11-10-2019 10:52,03-11-2019 18:28,jgutierrezCSU
+ChicoState/SafeAlert,0,16,As a user i want to make sure my account is unique as a user,Done,jgutierrezCSU,None,11-10-2019 10:50,03-11-2019 18:29,jgutierrezCSU
+ChicoState/SafeAlert,0,15,As a user i want to be able to sign in using my account and for it to be stored in a database,Done,jgutierrezCSU,None,06-10-2019 20:08,11-10-2019 14:20,jgutierrezCSU
+ChicoState/SafeAlert,0,14,As a user I want to know what happens/displays when I finally select a buddii and start my walk to my destination.,Done,"DeWubs,dev-igs",None,06-10-2019 20:06,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,13,"As a user I want to know how to stop the ""I need a buddi"" option if I want to cancel.",Done,jgutierrezCSU,None,06-10-2019 20:05,06-12-2019 21:10,jgutierrezCSU
+ChicoState/SafeAlert,0,7,As a user I want to know if I can choose between a list of friends that are users or random users to be my buddii.,Done,barcher13,None,04-10-2019 12:53,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,6,"As a user I want to know the sequence of tasks the ""Find Route"" option requires in order for it to start working. These tasks will be.",Done,mshimada2,None,04-10-2019 12:52,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,5,"As a user, I would like to see what options I can choose from. As a user I want to be able to",Done,None,None,04-10-2019 12:47,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,2,As a user I want to know how to use the SafeAlert app,Done,None,None,16-09-2019 12:38,17-12-2019 11:35,mshimada2
+ChicoState/SafeAlert,0,15,As a user i want to be able to sign in using my account and for it to be stored in a database,In progress,jgutierrezCSU,None,06-10-2019 20:08,None,None
+ChicoState/SafeAlert,0,14,As a user I want to know what happens/displays when I finally select a buddii and start my walk to my destination.,In progress,"DeWubs,dev-igs",None,06-10-2019 20:06,None,None
+ChicoState/SafeAlert,0,13,"As a user I want to know how to stop the ""I need a buddi"" option if I want to cancel.",In progress,jgutierrezCSU,None,06-10-2019 20:05,None,None
+ChicoState/SafeAlert,0,7,As a user I want to know if I can choose between a list of friends that are users or random users to be my buddii.,In progress,barcher13,None,04-10-2019 12:53,None,None
+ChicoState/SafeAlert,0,6,"As a user I want to know the sequence of tasks the ""Find Route"" option requires in order for it to start working. These tasks will be.",In progress,mshimada2,None,04-10-2019 12:52,None,None
+ChicoState/SafeAlert,0,5,"As a user, I would like to see what options I can choose from. As a user I want to be able to",In progress,None,None,04-10-2019 12:47,None,None
+ChicoState/SafeAlert,0,5,"As a user, I would like to see what options I can choose from. As a user I want to be able to",In progress,None,None,04-10-2019 12:47,None,None
+ChicoState/SceneAlert,0,27,"As a User, I want to be able to securely make an account.",Done,mrteddi,None,13-11-2019 15:40,29-11-2019 14:58,mrteddi
+ChicoState/SceneAlert,0,24,Web: Markers don't erase when events go inactive,Done,rhapidfyre,Something isn't working,30-10-2019 23:08,03-11-2019 22:58,mrteddi
+ChicoState/SceneAlert,0,21,CHP incidents are not being removed,Done,None,Something isn't working,09-10-2019 11:16,12-10-2019 11:00,rhapidfyre
+ChicoState/SceneAlert,0,15,"As a User, I want to be able to see crime on a map.",Done,mrteddi,None,20-09-2019 11:44,13-11-2019 16:36,mrteddi
+ChicoState/SceneAlert,0,8,"As a user, I want scene alert to be updated frequently, to keep me updated with alerts",Done,None,None,20-09-2019 11:15,08-12-2019 17:25,mrteddi
+ChicoState/SceneAlert,0,6,"As a User, I want to be able to securely login to my account.",Done,mrteddi,None,20-09-2019 11:03,13-11-2019 16:36,mrteddi
+ChicoState/SceneAlert,0,5,As a User I want an app with a clean interface that is easy to navigate.,Done,None,None,16-09-2019 15:36,13-11-2019 16:36,mrteddi
+ChicoState/SceneAlert,0,4,Initial SQL Schema,Done,rhapidfyre,None,16-09-2019 15:29,06-10-2019 03:27,mrteddi
+ChicoState/SceneAlert,0,1,"As a User, I want to see the crime history of my neighborhood to see if it's safe.",Done,mrteddi,None,16-09-2019 11:49,13-11-2019 16:36,mrteddi
+ChicoState/SceneAlert,0,22,Incidents with the same Location; Crash,To do,None,Something isn't working,14-10-2019 15:17,None,None
+ChicoState/SceneAlert,0,11,"As a user, I want to be able to see content from other incident pages all in one location.",To do,None,None,20-09-2019 11:23,None,None
+ChicoState/SceneAlert,0,17,"As a User, I want to be able make sure my family is safe.",To do,mhernandez052,None,20-09-2019 11:52,None,None
+ChicoState/SceneAlert,0,19,"As a User, I want a dark theme for the app.",To do,None,None,25-09-2019 15:14,None,None
+ChicoState/SceneAlert,0,15,"As a User, I want to be able to see crime on a map.",In progress,mrteddi,None,20-09-2019 11:44,None,None
+ChicoState/SceneAlert,0,5,As a User I want an app with a clean interface that is easy to navigate.,In progress,None,None,16-09-2019 15:36,None,None
+ChicoState/SceneAlert,0,6,"As a User, I want to be able to securely login to my account.",In progress,mrteddi,None,20-09-2019 11:03,None,None
+ChicoState/SceneAlert,0,4,Initial SQL Schema,In progress,rhapidfyre,None,16-09-2019 15:29,None,None
+ChicoState/SceneAlert,0,16,"As a User, I want to be able to see a feed on my dashboard.",To do,None,None,20-09-2019 11:46,None,None
+ChicoState/SceneAlert,0,18,"As a User, I want a tutorial on how to use the app.",To do,None,None,20-09-2019 11:54,None,None
+ChicoState/SceneAlert,0,14,As a User I want a website with a clean interface that is easy to navigate.,To do,DoctorNeyNey,None,20-09-2019 11:41,None,None
+ChicoState/SceneAlert,0,6,"As a User, I want to be able to securely login to my account.",To do,mrteddi,None,20-09-2019 11:03,None,None
+ChicoState/SceneAlert,0,2,"As a Scanner Hobbyist, I want to be able to listen to scanners through the app.",In progress,None,None,16-09-2019 15:09,None,None
+ChicoState/SceneAlert,0,2,"As a Scanner Hobbyist, I want to be able to listen to scanners through the app.",To do,None,None,16-09-2019 15:09,None,None
+ChicoState/SceneAlert,0,4,Initial SQL Schema,To do,rhapidfyre,None,16-09-2019 15:29,None,None
+ChicoState/SceneAlert,0,4,Initial SQL Schema,In progress,rhapidfyre,None,16-09-2019 15:29,None,None
+ChicoState/SceneAlert,0,5,As a User I want an app with a clean interface that is easy to navigate.,To do,None,None,16-09-2019 15:36,None,None
+ChicoState/SceneAlert,0,4,Initial SQL Schema,To do,rhapidfyre,None,16-09-2019 15:29,None,None
