@@ -31,8 +31,8 @@ app.use(cors());
 //require("./app/routes/authenticate.routes")(app);
 
 // Create a new login
-const clientID = "78636703058b6ed19ace";
-const clientSecret = "d4b92bd5305182c0339ab4ba35ceaa6bfd087ed5";
+const clientID = "xxxxx";
+const clientSecret = "xxxxxxxxxxxx";
 var access_token = "";
 app.get("/", (req, res) => {
   res.redirect(
@@ -66,7 +66,7 @@ app.get("/signin/callback", (req, res) => {
       res.send("error in doc");
     });
 });
-const accessToken = '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';
+const accessToken = 'xxxxxxxxxxxx';
 
  // fetch the repositories from org for FALL-2020
  
